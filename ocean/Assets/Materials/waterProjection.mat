@@ -6,10 +6,10 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: waterSurface
-  m_Shader: {fileID: 4800000, guid: ab6f7521bd72644388f2fc1112e74e7b, type: 3}
+  m_Name: waterProjection
+  m_Shader: {fileID: 4800000, guid: c66d89e6997486f469c13dfc48612f48, type: 3}
   m_ShaderKeywords: EFFECT_BUMP GEOM_TYPE_BRANCH_DETAIL GEOM_TYPE_FROND GEOM_TYPE_LEAF
-    GEOM_TYPE_MESH
+    GEOM_TYPE_MESH _OVERLAY_SIMPLE
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -69,6 +69,8 @@ Material:
     - _AbsorptionHeight: 4.28
     - _AbsorptionMaxHeight: 60
     - _AbsorptionStrength: 1
+    - _BlendDst: 1
+    - _BlendSrc: 5
     - _BumpScale: 1
     - _CausticMode: 1
     - _CausticsEnabled: 1
@@ -103,6 +105,8 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
+    - _Opacity: 1
+    - _Overlay: 0
     - _Parallax: 0.02
     - _PixelSnap: 0
     - _PlanarEnabled: 1
@@ -119,6 +123,7 @@ Material:
     - _UsesWaterVolume: 0
     - _WaterIOR: 1.239
     - _WaterSurfaceYPos: 0
+    - _ZTest: 0
     - _ZWrite: 1
     m_Colors:
     - _BumpRotation: {r: 0, g: 8, b: 32, a: 0}

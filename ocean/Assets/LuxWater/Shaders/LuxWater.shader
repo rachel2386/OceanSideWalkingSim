@@ -175,7 +175,7 @@ Shader "Lux Water/WaterSurface" {
 		#define FOG_EXP2
 
 	//	Metal deffered support
-		//#define LUXWATERMETALDEFERRED
+		#define LUXWATERMETALDEFERRED
 
 	//	Water projector support
 		#pragma multi_compile __ USINGWATERPROJECTORS
