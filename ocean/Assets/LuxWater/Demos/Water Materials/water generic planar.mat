@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: water generic planar
-  m_Shader: {fileID: 4800000, guid: 39abf6d84bae44d64b164efc87b72b37, type: 3}
-  m_ShaderKeywords: GEOM_TYPE_BRANCH_DETAIL GEOM_TYPE_FROND GEOM_TYPE_LEAF GEOM_TYPE_MESH
-    _GERSTNERDISPLACEMENT
+  m_Shader: {fileID: 4800000, guid: ab6f7521bd72644388f2fc1112e74e7b, type: 3}
+  m_ShaderKeywords: EFFECT_BUMP GEOM_TYPE_BRANCH_DETAIL GEOM_TYPE_FROND GEOM_TYPE_LEAF
+    GEOM_TYPE_MESH _GERSTNERDISPLACEMENT
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -43,9 +43,9 @@ Material:
     - _AbsorbtionStrength: 1
     - _AbsorptionColorStrength: 1
     - _AbsorptionDepth: 0.2
-    - _AbsorptionHeight: 5
+    - _AbsorptionHeight: 8
     - _AbsorptionMaxHeight: 1
-    - _AbsorptionStrength: 0.744
+    - _AbsorptionStrength: 1
     - _BaseUVScale: 0.1
     - _BumpParallax: 0.3
     - _CausticMode: 1
@@ -55,7 +55,7 @@ Material:
     - _CausticsSpeed: 6
     - _CausticsTiling: 0.2
     - _Culling: 0
-    - _Density: 0.63
+    - _Density: 0.76
     - _DensityDepth: 0.01
     - _DepthAtten: 2.12
     - _FinalFogDensity: 0
@@ -67,7 +67,7 @@ Material:
     - _FoamSoftIntersectionFactor: 0.53
     - _FoamSpeed: -6
     - _FoamTiling: 9
-    - _FogAbsorptionCancellation: 0.5
+    - _FogAbsorptionCancellation: 0.554
     - _FresbnelFactor: 5
     - _FresnelPower: 5
     - _GGlobalFrequency: 1
@@ -97,7 +97,7 @@ Material:
     - _ReflectionStrength: 1
     - _Refraction: 120
     - _ScatteringPower: 10
-    - _UVSpaceMappingEnabled: 0
+    - _UVSpaceMappingEnabled: 1
     - _UsesWaterVolume: 0
     - _WaterIOR: 1.3333
     - _WaterSurfaceYPos: 0
@@ -110,7 +110,7 @@ Material:
     - _BumpSpeed: {r: 2, g: -4.2, b: 6, a: 0.1}
     - _BumpSpeedXXX: {r: 1.7, g: 1, b: 0, a: 0}
     - _BumpTiling: {r: 0.3, g: 0.57, b: 1, a: 0.1}
-    - _Color: {r: 0.29411763, g: 0.2043312, b: 0.108131476, a: 0}
+    - _Color: {r: 0.08410466, g: 0.2577385, b: 0.509434, a: 0}
     - _DepthAtten: {r: 0, g: 10, b: 1, a: 0}
     - _FarBumpSampleParams: {r: 0.25, g: 0.01, b: 0, a: 0}
     - _FinalBumpRotation: {r: 2155.8538, g: 3.7999985, b: 118.79876, a: 118.79876}
