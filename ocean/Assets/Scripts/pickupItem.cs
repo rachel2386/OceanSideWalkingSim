@@ -28,6 +28,7 @@ public class pickupItem : MonoBehaviour
 	// Update is called once per frame
 	void Update () {
 
+		Debug.Log("pickedup=" + pickedup);
 		if (itemRotate)
 		{
 			
@@ -55,21 +56,50 @@ public class pickupItem : MonoBehaviour
 
 	}
 
-	private void OnTriggerStay(Collider other)
+	private void OnTriggerEnter(Collider other)
 	{
-		
+
+		if (pickedup == false)
+		{
 			if (other.gameObject.tag.Equals("items"))
 			{
 				pickedup = true;
 
 			}
-			
-		
-		
-		
 
-		
+		}
 	}
+	
+	private void OnTriggerExit(Collider other)
+	{
+
+		if (Input.GetMouseButton(0)==false)
+		{
+			if (pickedup == true)
+			{
+				if (other.gameObject.tag.Equals("items"))
+				{
+					pickedup = false;
+
+				}
+
+			}
+		}
+		else
+		{
+			pickedup = true;
+		}
+
+	}
+	
+	
+
+
+
+
+
+
+
 
 	void pickup()
 	{
