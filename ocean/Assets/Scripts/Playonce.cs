@@ -10,7 +10,6 @@ public class Playonce : MonoBehaviour{
 	void Start()
 	{
 		myAS = GetComponent<AudioSource>();
-
 		myAudio = myAS.clip;
 
 	}

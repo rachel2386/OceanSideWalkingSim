@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="effeb5a1-4621-4a19-87de-92a00453a722" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocean/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ocean/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean/Assets/Scripts/Playonce.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ocean/Assets/Scripts/Playonce.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ocean/Assets/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/ocean/Assets/oceanSide.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,15 +93,15 @@
         <entry file="file://$PROJECT_DIR$/ocean/Assets/Scripts/Playonce.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="173">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
-                <marker date="1540478738000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540478738000" expanded="true" signature="117:618" ph="{...}" />
-                <marker date="1540478738000" expanded="true" signature="221:290" ph="{...}" />
-                <marker date="1540478738000" expanded="true" signature="306:351" ph="{...}" />
-                <marker date="1540478738000" expanded="true" signature="389:614" ph="{...}" />
-                <marker date="1540478738000" expanded="true" signature="436:610" ph="{...}" />
-                <marker date="1540478738000" expanded="true" signature="461:595" ph="{...}" />
+                <marker date="1540478981000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540478981000" expanded="true" signature="117:617" ph="{...}" />
+                <marker date="1540478981000" expanded="true" signature="221:289" ph="{...}" />
+                <marker date="1540478981000" expanded="true" signature="305:350" ph="{...}" />
+                <marker date="1540478981000" expanded="true" signature="388:613" ph="{...}" />
+                <marker date="1540478981000" expanded="true" signature="435:609" ph="{...}" />
+                <marker date="1540478981000" expanded="true" signature="460:594" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -304,7 +304,7 @@
       <workItem from="1540145024227" duration="570000" />
       <workItem from="1540155577879" duration="744000" />
       <workItem from="1540296855107" duration="210000" />
-      <workItem from="1540475584947" duration="3189000" />
+      <workItem from="1540475584947" duration="3591000" />
     </task>
     <task id="LOCAL-00001" summary="I added a trash can to the scene.">
       <created>1539652268005</created>
@@ -359,7 +359,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7380000" />
+    <option name="totallyTimeSpent" value="7782000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,7 +372,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="137" y="74" width="931" height="732" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.40044993" />
       <window_info id="Structure" order="1" sideWeight="0.50086653" side_tool="true" weight="0.2569956" />
@@ -474,15 +473,15 @@
     <entry file="file://$PROJECT_DIR$/ocean/Assets/Scripts/Playonce.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <marker date="1540478738000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540478738000" expanded="true" signature="117:618" ph="{...}" />
-            <marker date="1540478738000" expanded="true" signature="221:290" ph="{...}" />
-            <marker date="1540478738000" expanded="true" signature="306:351" ph="{...}" />
-            <marker date="1540478738000" expanded="true" signature="389:614" ph="{...}" />
-            <marker date="1540478738000" expanded="true" signature="436:610" ph="{...}" />
-            <marker date="1540478738000" expanded="true" signature="461:595" ph="{...}" />
+            <marker date="1540478981000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540478981000" expanded="true" signature="117:617" ph="{...}" />
+            <marker date="1540478981000" expanded="true" signature="221:289" ph="{...}" />
+            <marker date="1540478981000" expanded="true" signature="305:350" ph="{...}" />
+            <marker date="1540478981000" expanded="true" signature="388:613" ph="{...}" />
+            <marker date="1540478981000" expanded="true" signature="435:609" ph="{...}" />
+            <marker date="1540478981000" expanded="true" signature="460:594" ph="{...}" />
           </folding>
         </state>
       </provider>
