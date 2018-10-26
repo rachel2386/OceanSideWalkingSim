@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a63fe9d3-4f30-4516-9800-1bb78d2ce191" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/Sound effects/bottle crunch for item pick up.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Audio/Sound effects/bottle crunch for item pick up.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/oceanSide.unity" afterDir="false" />
-    </list>
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,57 +9,138 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="395644643">
+    <session id="1475604938">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cs" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C#" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2" />
-          <entry key="txt" value="101" />
+          <entry key="cs" value="2572" />
+          <entry key="txt" value="1504" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2" />
-          <entry key="PLAIN_TEXT" value="101" />
+          <entry key="C#" value="2572" />
+          <entry key="PLAIN_TEXT" value="1504" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.merge" value="1" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="15" />
+          <entry key="shader" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="15" />
+          <entry key="ShaderLab" value="1" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playonce.cs">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="466">
+              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
               <folding>
-                <marker date="1540478981000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540478981000" expanded="true" signature="117:617" ph="{...}" />
-                <marker date="1540478981000" expanded="true" signature="221:289" ph="{...}" />
-                <marker date="1540478981000" expanded="true" signature="305:350" ph="{...}" />
-                <marker date="1540478981000" expanded="true" signature="388:613" ph="{...}" />
-                <marker date="1540478981000" expanded="true" signature="435:609" ph="{...}" />
-                <marker date="1540478981000" expanded="true" signature="460:594" ph="{...}" />
+                <marker date="1540486456148" expanded="false" signature="6:111" ph="..." />
+                <marker date="1540486456148" expanded="true" signature="165:3863" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="213:3861" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="784:818" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="883:1031" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="1105:2312" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="1198:2286" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="1693:2048" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2069:2235" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2359:2636" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2429:2626" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2676:2841" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2884:3461" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2941:3011" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3058:3127" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3162:3288" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3328:3451" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3520:3854" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/ObjectController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="52" column="108" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/PickUpObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="42" column="32" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+              <folding>
+                <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+                <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
               </folding>
             </state>
           </provider>
@@ -72,16 +148,42 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#define LUXWATERMETALDEFERRED</find>
+      <find>mouseLook</find>
+      <find>yRot</find>
+      <find>fpCo</find>
+      <find>curRotate</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Playonce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/PickUpObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/ObjectController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OceanSide/Assets/pickupItem.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Playonce.cs" />
+        <option value="$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/pickupItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PickupItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" />
       </list>
     </option>
   </component>
@@ -91,23 +193,45 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="732" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="395" />
+    <option name="y" value="120" />
+    <option name="width" value="1400" />
+    <option name="height" value="885" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="LuxWater" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="LuxWater" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -148,35 +272,139 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a63fe9d3-4f30-4516-9800-1bb78d2ce191" name="Default Changelist" comment="" />
-      <created>1540475969628</created>
+      <changelist id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="" />
+      <created>1539096267251</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540475969628</updated>
-      <workItem from="1540475973250" duration="584000" />
-      <workItem from="1540477121336" duration="575000" />
-      <workItem from="1540478234110" duration="177000" />
-      <workItem from="1540478649869" duration="2066000" />
+      <updated>1539096267251</updated>
+      <workItem from="1539096268930" duration="364000" />
+      <workItem from="1539267789886" duration="1232000" />
+      <workItem from="1539444646215" duration="624000" />
+      <workItem from="1539697685460" duration="1079000" />
+      <workItem from="1539870489661" duration="3583000" />
+      <workItem from="1540159929644" duration="2317000" />
+      <workItem from="1540175983214" duration="145000" />
+      <workItem from="1540263176177" duration="5468000" />
+      <workItem from="1540474760275" duration="9900000" />
+      <workItem from="1540564120785" duration="2137000" />
     </task>
-    <task id="LOCAL-00001" summary="Added the Audio script! And created a game object with the audio in it.">
-      <created>1540478906366</created>
+    <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
+      <created>1539096551237</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1540478906366</updated>
+      <updated>1539096551237</updated>
     </task>
-    <task id="LOCAL-00002" summary="Moving the city up!">
-      <created>1540480107161</created>
+    <task id="LOCAL-00002" summary="applied waterSurface shader to ocean surface. &#10;Added city skybox">
+      <created>1539873893267</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1540480107161</updated>
+      <updated>1539873893267</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="applied waterSurface shader to ocean surface. &#10;Added city skybox">
+      <created>1539873919610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539873919610</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CHANGED WATER SHADER FOR DEFERRED RENDERING">
+      <created>1539877128018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1539877128018</updated>
+    </task>
+    <task id="LOCAL-00005" summary="DISABLED TERRAIN AND ADDED IN PLANE TO SCENE &#10;IMPORTED PROBUILDER AND PROGRID&#10;CHANGE SKYBOX TO DEFAULT">
+      <created>1539877207354</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539877207354</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BUILT SIMPLE MAP WITH PROBUILDER">
+      <created>1539879254096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539879254097</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CHANGED NAME OF BUILDING CUBE">
+      <created>1539879527773</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1539879527773</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added turtle with plastic prefab and texture to scene">
+      <created>1540175729824</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540175729824</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added turtle with plastic prefab and texture to scene">
+      <created>1540175744179</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540175744179</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first major push after github breakdown &#10;&#10;finished low poly landscape &#10;&#10;created 6 basic materials to distinguish tiers&#10;&#10;added a cave to player starting point">
+      <created>1540263456081</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540263456081</updated>
+    </task>
+    <task id="LOCAL-00011" summary="prefabs of landscape model,&#10;turtle model &#10;cargo box at starting position &#10;rock formations&#10;overhang&#10;bridge and distanced city &#10;material files for landscape">
+      <created>1540263587329</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540263587329</updated>
+    </task>
+    <task id="LOCAL-00012" summary="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup">
+      <created>1540266916864</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540266916864</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup">
+      <created>1540267432597</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540267432597</updated>
+    </task>
+    <task id="LOCAL-00014" summary="imported pickup item script&#10;&#10;added objectHolder under rigidbody Controller&#10;&#10;added tag &quot;items&quot;">
+      <created>1540279711895</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540279711895</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed the pickup script so player can only pickup when colliding with items">
+      <created>1540475735243</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540475735243</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixed the pickup script so player can inspect the item when dragging mouse&#10;&#10;fixed the pickup script so when item is dropped off the scale remains the same. &#10;&#10;unparented seaturtle from mapSmall">
+      <created>1540566370054</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540566370054</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3402000" />
+    <option name="totallyTimeSpent" value="26849000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,10 +416,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923664" visible="true" weight="0.25134048" />
+      <window_info id="Structure" order="1" sideWeight="0.50763357" side_tool="true" visible="true" weight="0.25134048" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -199,20 +427,21 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3296875" />
-      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.2567376" />
+      <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5033512" side_tool="true" weight="0.2567376" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,13 +449,50 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added the Audio script! And created a game object with the audio in it." />
-    <MESSAGE value="Moving the city up!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving the city up!" />
+    <MESSAGE value="changed flashlight toggle key mapping from X to E" />
+    <MESSAGE value="applied waterSurface shader to ocean surface. &#10;Added city skybox" />
+    <MESSAGE value="CHANGED WATER SHADER FOR DEFERRED RENDERING" />
+    <MESSAGE value="DISABLED TERRAIN AND ADDED IN PLANE TO SCENE &#10;IMPORTED PROBUILDER AND PROGRID&#10;CHANGE SKYBOX TO DEFAULT" />
+    <MESSAGE value="BUILT SIMPLE MAP WITH PROBUILDER" />
+    <MESSAGE value="CHANGED NAME OF BUILDING CUBE" />
+    <MESSAGE value="added turtle with plastic prefab and texture to scene" />
+    <MESSAGE value="first major push after github breakdown &#10;&#10;finished low poly landscape &#10;&#10;created 6 basic materials to distinguish tiers&#10;&#10;added a cave to player starting point" />
+    <MESSAGE value="prefabs of landscape model,&#10;turtle model &#10;cargo box at starting position &#10;rock formations&#10;overhang&#10;bridge and distanced city &#10;material files for landscape" />
+    <MESSAGE value="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup" />
+    <MESSAGE value="imported pickup item script&#10;&#10;added objectHolder under rigidbody Controller&#10;&#10;added tag &quot;items&quot;" />
+    <MESSAGE value="fixed the pickup script so player can only pickup when colliding with items" />
+    <MESSAGE value="fixed the pickup script so player can inspect the item when dragging mouse&#10;&#10;fixed the pickup script so when item is dropped off the scale remains the same. &#10;&#10;unparented seaturtle from mapSmall" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the pickup script so player can inspect the item when dragging mouse&#10;&#10;fixed the pickup script so when item is dropped off the scale remains the same. &#10;&#10;unparented seaturtle from mapSmall" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -235,22 +501,124 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs</url>
+          <line>48</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" initialLine="38">
+            <startOffsets>
+              <option value="1130" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1198" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playonce.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="155">
+          <caret line="177" column="37" selection-start-line="177" selection-start-column="37" selection-end-line="177" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="85" column="33" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../OceanSide/Assets/pickupItem.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/pickupItem.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="136" column="9" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
           <folding>
-            <marker date="1540478981000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540478981000" expanded="true" signature="117:617" ph="{...}" />
-            <marker date="1540478981000" expanded="true" signature="221:289" ph="{...}" />
-            <marker date="1540478981000" expanded="true" signature="305:350" ph="{...}" />
-            <marker date="1540478981000" expanded="true" signature="388:613" ph="{...}" />
-            <marker date="1540478981000" expanded="true" signature="435:609" ph="{...}" />
-            <marker date="1540478981000" expanded="true" signature="460:594" ph="{...}" />
+            <marker date="1540486456148" expanded="false" signature="6:111" ph="..." />
+            <marker date="1540486456148" expanded="true" signature="165:3863" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="213:3861" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="784:818" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="883:1031" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="1105:2312" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="1198:2286" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="1693:2048" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2069:2235" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2359:2636" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2429:2626" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2676:2841" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2884:3461" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2941:3011" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3058:3127" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3162:3288" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3328:3451" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3520:3854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PickUpObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/ObjectController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="52" column="108" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+          <folding>
+            <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+            <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
           </folding>
         </state>
       </provider>
