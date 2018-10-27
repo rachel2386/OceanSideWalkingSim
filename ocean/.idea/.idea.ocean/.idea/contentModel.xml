@@ -275,6 +275,29 @@
             </e>
           </e>
         </e>
+        <e p="Wireframe" t="Include">
+          <e p="Examples" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="AutoRotate.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ImageEffect" t="Include">
+            <e p="WireframeImageEffect.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Wireframe-Global.shader" t="Include" />
+              <e p="WireframeShaded-Unlit-Global.shader" t="Include" />
+              <e p="WireframeTransparent-Global.shader" t="Include" />
+              <e p="WireframeTransparentCulled-Global.shader" t="Include" />
+            </e>
+            <e p="Wireframe.cginc" t="Include" />
+            <e p="Wireframe.shader" t="Include" />
+            <e p="WireframeShaded-Unlit.shader" t="Include" />
+            <e p="WireframeTransparent.shader" t="Include" />
+            <e p="WireframeTransparentCulled.shader" t="Include" />
+          </e>
+        </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />
