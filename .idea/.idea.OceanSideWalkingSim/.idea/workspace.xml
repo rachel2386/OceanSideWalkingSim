@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="effeb5a1-4621-4a19-87de-92a00453a722" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="effeb5a1-4621-4a19-87de-92a00453a722" name="Default Changelist" comment="I set the fog nearby the island and gave the island a mesh collider.&#10;&#10;I removed the fences and tree. &#10;&#10;I brought the water box closer.&#10;&#10;I set a collider for the water so we're not falling in.">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ocean/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ocean/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocean/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/ocean/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
     <session id="2026675371">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="6" />
@@ -55,34 +56,11 @@
     <favorites_list name="OceanSideWalkingSim" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ocean/Assets/Materials.meta">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/contentModel.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ocean/Temp/Compiled-ProBuilder-Diffuse Texture Blend.shader">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ocean/Temp/Compiled-ProBuilder-Diffuse Texture Blend.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -118,6 +96,374 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/contentModel.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/.idea/.idea.ocean/.idea/contentModel.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/.idea/.idea.ocean/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials/Cliff_2_Diffuse.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/PlayerBox/Texture.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/PlayerBox/texture 1.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/PlayerBox/texture.001.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/PlayerBox/texture.004.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/PlayerBox/texturtexture.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/grass.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/mud.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/road.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/sand.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/stone.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/wood.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/ProBuilder Data/ProBuilderPreferences.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/LightingData.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-0_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-0_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-1_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-1_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/ReflectionProbe-0.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scripts/pickupItem.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/metal.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Materials/metal.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide.unity.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Demo.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Demo.unity.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Material.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Material/Thermal Vision.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Material/Thermal Vision.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Material/emission.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Material/emission.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/ReadMe.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/ReadMe.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Script.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Script/CameraEffect.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Script/CameraEffect.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Script/FreeCamera.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Script/FreeCamera.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Script/showWireframe.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Script/showWireframe.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Shader/Thermal Vision.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Shader/Thermal Vision.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/HeatLookup.tga</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/HeatLookup.tga.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/HeatNoise.tga</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/HeatNoise.tga.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine Skybox.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine Skybox.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_back.tif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_back.tif.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_down.tif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_down.tif.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_front.tif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_front.tif.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_left.tif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_left.tif.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_right.tif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_right.tif.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_up.tif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Thermal Vision/Texture/MoonShine/MoonShine_up.tif.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Standard.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Standard.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-ShadedUnlit.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-ShadedUnlit.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-Solid.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-Solid.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-Transparent.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-Transparent.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-TransparentCulled.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Materials/Wireframe-TransparentCulled.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Scripts.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Scripts/AutoRotate.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Scripts/AutoRotate.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Textures.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Textures/checkerboard.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/Textures/checkerboard.jpg.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/WireframeImageEffect.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/WireframeImageEffect.unity.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/WireframeShaders.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Examples/WireframeShaders.unity.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/ImageEffect.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/ImageEffect/WireframeImageEffect.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/ImageEffect/WireframeImageEffect.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/README.md.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/Wireframe-Global.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/Wireframe-Global.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/WireframeShaded-Unlit-Global.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/WireframeShaded-Unlit-Global.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/WireframeTransparent-Global.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/WireframeTransparent-Global.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/WireframeTransparentCulled-Global.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Resources/WireframeTransparentCulled-Global.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Wireframe.cginc</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Wireframe.cginc.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Wireframe.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/Wireframe.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/WireframeShaded-Unlit.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/WireframeShaded-Unlit.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/WireframeTransparent.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/WireframeTransparent.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/WireframeTransparentCulled.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Wireframe/Shaders/WireframeTransparentCulled.shader.meta</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/146246__ferdinger__fizzling.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/146246__ferdinger__fizzling.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/BOOOwp.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/BOOOwp.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/bottlecrunch.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/bottlecrunch.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/bottledropped.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/bottledropped.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/containor.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/containor.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/industrial beat.aiff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/industrial beat.aiff.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/liquidcolliding .wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/liquidcolliding .wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/opening trashbin.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/opening trashbin.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/outdoor_industrialfan.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/outdoor_industrialfan.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/rotating trash.mp3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/rotating trash.mp3.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/shufflingglass.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/shufflingglass.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/wirr.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Audio/Sound effects/wirr.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scripts/Playonce.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Scripts/Playonce.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/oceanSide.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ocean/Assets/oceanSide.unity.meta</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,11 +540,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540163004899</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="I set the fog nearby the island and gave the island a mesh collider.&#10;&#10;I removed the fences and tree. &#10;&#10;I brought the water box closer.&#10;&#10;I set a collider for the water so we're not falling in.">
+      <created>1540674009625</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540674009625</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3981000" />
+    <option name="totallyTimeSpent" value="4931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -210,10 +563,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="43" width="1400" height="952" extended-state="0" />
-    <editor active="true" />
+    <frame x="137" y="74" width="1560" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.2790869" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.2397892" />
       <window_info id="Structure" order="1" sideWeight="0.50086653" side_tool="true" weight="0.2569956" />
       <window_info id="Favorites" order="2" sideWeight="0.50086653" side_tool="true" weight="0.2569956" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -225,11 +577,11 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32906976" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.32906976" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4970545" visible="true" weight="0.32906976" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49407116" visible="true" weight="0.26751593" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32906976" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32906976" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5029455" side_tool="true" visible="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5059289" side_tool="true" visible="true" weight="0.26751593" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -309,8 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ocean/Temp/Compiled-ProBuilder-Diffuse Texture Blend.shader">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ocean/Temp/Compiled-ProBuilder-Diffuse Texture Blend.shader" />
   </component>
 </project>
