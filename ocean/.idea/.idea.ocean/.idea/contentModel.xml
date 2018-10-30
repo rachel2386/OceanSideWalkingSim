@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_ocean.835164662.00" t="ExcludeRecursive" />
-    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+    <e p="C:\Users\Rachel\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Rachel\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_ocean.-1800510077.00" t="ExcludeRecursive" />
+    <e p="D:\内容\others\nyu\gradClasses\game studioI\oceanSide\OceanWalkingSim\ocean" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
@@ -281,7 +281,6 @@
           <e p="Script" t="Include">
             <e p="CameraEffect.cs" t="Include" />
             <e p="FreeCamera.cs" t="Include" />
-            <e p="showWireframe.cs" t="Include" />
           </e>
           <e p="Shader" t="Include">
             <e p="Thermal Vision.shader" t="Include" />
