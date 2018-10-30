@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Script/showWireframe.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Script/showWireframe.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,18 +91,80 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
     </session>
-    <session id="395644643">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+              <folding>
+                <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+                <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+              <folding>
+                <marker date="1540662613391" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540662613391" expanded="true" signature="121:1176" ph="{...}" />
+                <marker date="1540662613391" expanded="true" signature="440:507" ph="{...}" />
+                <marker date="1540662613391" expanded="true" signature="526:840" ph="{...}" />
+                <marker date="1540662613391" expanded="true" signature="899:1053" ph="{...}" />
+                <marker date="1540662613391" expanded="true" signature="918:1006" ph="{...}" />
+                <marker date="1540662613391" expanded="true" signature="1013:1050" ph="{...}" />
+                <marker date="1540662613391" expanded="true" signature="1068:1174" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -119,14 +181,16 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OceanSide/Assets/pickupItem.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,7 +213,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="557" />
     <option name="y" value="23" />
     <option name="width" value="1333" />
@@ -161,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -188,12 +251,185 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/146246__ferdinger__fizzling.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/146246__ferdinger__fizzling.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb 1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb 1.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/BOOOwp.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/BOOOwp.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/bottle crunch for item pick up.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/bottle crunch for item pick up.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/bottledropped.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/bottledropped.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/containor.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/containor.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/industrial beat.aiff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/industrial beat.aiff.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/liquidcolliding .wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/liquidcolliding .wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/ocean_lapping.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/ocean_lapping.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/opening trashbin.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/opening trashbin.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/outdoor_industrialfan.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/outdoor_industrialfan.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/rotating trash.mp3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/rotating trash.mp3.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/shufflingglass.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/shufflingglass.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/wirr.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/wirr.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scripts/playonce.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scripts/playonce.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/.collabignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/Packages/manifest.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/AudioManager.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/ClusterInputManager.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/DynamicsManager.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/EditorBuildSettings.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/EditorSettings.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/GraphicsSettings.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/InputManager.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/NavMeshAreas.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/Physics2DSettings.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/PresetManager.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/ProjectSettings.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/ProjectVersion.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/QualitySettings.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/TagManager.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/TimeManager.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Oceanside/ProjectSettings/UnityConnectSettings.asset</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -246,7 +482,6 @@
       <workItem from="1540660132731" duration="2285000" />
       <workItem from="1540864120292" duration="1154000" />
       <workItem from="1540868622663" duration="174000" />
-      <workItem from="1540913789683" duration="403000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -392,7 +627,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31592000" />
+    <option name="totallyTimeSpent" value="31791000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,10 +639,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4848485" visible="true" weight="0.27382874" />
-      <window_info id="Structure" order="1" sideWeight="0.5151515" side_tool="true" visible="true" weight="0.27382874" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48664123" visible="true" weight="0.2613941" />
+      <window_info id="Structure" order="1" sideWeight="0.5133588" side_tool="true" visible="true" weight="0.2613941" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -418,7 +653,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.2567376" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -534,25 +769,65 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/ObjectController.cs" />
     <entry file="file://$USER_HOME$/Desktop/PickUpObject.cs" />
-    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" />
+    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2055">
+        <state relative-caret-position="179">
           <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+          <folding>
+            <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+            <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
+        <state>
           <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="400">
           <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+          <folding>
+            <marker date="1540662613391" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540662613391" expanded="true" signature="121:1176" ph="{...}" />
+            <marker date="1540662613391" expanded="true" signature="440:507" ph="{...}" />
+            <marker date="1540662613391" expanded="true" signature="526:840" ph="{...}" />
+            <marker date="1540662613391" expanded="true" signature="899:1053" ph="{...}" />
+            <marker date="1540662613391" expanded="true" signature="918:1006" ph="{...}" />
+            <marker date="1540662613391" expanded="true" signature="1013:1050" ph="{...}" />
+            <marker date="1540662613391" expanded="true" signature="1068:1174" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
