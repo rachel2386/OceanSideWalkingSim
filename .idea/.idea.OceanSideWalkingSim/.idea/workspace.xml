@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="effeb5a1-4621-4a19-87de-92a00453a722" name="Default Changelist" comment="this is the audio script!">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="effeb5a1-4621-4a19-87de-92a00453a722" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ocean/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ocean/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +14,7 @@
     <session id="2026675371">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="7" />
@@ -41,12 +41,12 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="690" />
+          <entry key="PLAIN_TEXT" value="744" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="690" />
+          <entry key="txt" value="744" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -263,7 +263,7 @@
       <workItem from="1539831877222" duration="461000" />
       <workItem from="1540145024227" duration="570000" />
       <workItem from="1540155577879" duration="744000" />
-      <workItem from="1540863737151" duration="1311000" />
+      <workItem from="1540863737151" duration="1445000" />
     </task>
     <task id="LOCAL-00001" summary="I added a trash can to the scene.">
       <created>1539652268005</created>
@@ -335,11 +335,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540864811168</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added 2 materials to test so that the trash shows up">
+      <created>1540868318358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540868318358</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6242000" />
+    <option name="totallyTimeSpent" value="6376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,6 +359,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="453" y="43" width="1207" height="952" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913344" visible="true" weight="0.2832618" />
       <window_info id="Structure" order="1" sideWeight="0.50086653" side_tool="true" weight="0.2569956" />
@@ -428,7 +436,8 @@
     <MESSAGE value="I set the fog nearby the island and gave the island a mesh collider.&#10;&#10;I removed the fences and tree. &#10;&#10;I brought the water box closer.&#10;&#10;I set a collider for the water so we're not falling in." />
     <MESSAGE value="not sure what this was" />
     <MESSAGE value="this is the audio script!" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is the audio script!" />
+    <MESSAGE value="added 2 materials to test so that the trash shows up" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2 materials to test so that the trash shows up" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

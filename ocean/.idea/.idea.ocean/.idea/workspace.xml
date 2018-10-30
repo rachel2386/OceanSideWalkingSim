@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.OceanSideWalkingSim/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +65,10 @@
     <session id="1191346051">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -93,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
+            <state relative-caret-position="1065">
               <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
               <folding>
                 <marker date="1540671157430" expanded="false" signature="6:111" ph="..." />
@@ -192,7 +199,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="557" />
     <option name="y" value="23" />
     <option name="width" value="1333" />
@@ -204,6 +211,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -226,10 +237,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -288,6 +295,7 @@
       <workItem from="1540564120785" duration="2853000" />
       <workItem from="1540660132731" duration="2285000" />
       <workItem from="1540864120292" duration="1154000" />
+      <workItem from="1540868622663" duration="174000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -433,7 +441,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31004000" />
+    <option name="totallyTimeSpent" value="31178000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -445,10 +453,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="557" y="23" width="1333" height="992" extended-state="1" />
+    <frame x="557" y="23" width="1333" height="992" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48878923" visible="true" weight="0.37412858" />
-      <window_info id="Structure" order="1" sideWeight="0.51121074" side_tool="true" visible="true" weight="0.37412858" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48729447" visible="true" weight="0.37955073" />
+      <window_info id="Structure" order="1" sideWeight="0.5127055" side_tool="true" visible="true" weight="0.37955073" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -576,47 +584,16 @@
     <entry file="file://$USER_HOME$/Desktop/ObjectController.cs" />
     <entry file="file://$USER_HOME$/Desktop/PickUpObject.cs" />
     <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2055">
           <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
-          <folding>
-            <marker date="1540671157430" expanded="false" signature="6:170" ph="..." />
-            <marker date="1540671157430" expanded="true" signature="216:3398" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="756:1020" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1075:2011" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1134:1334" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1174:1247" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1286:1322" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1358:2008" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1626:1678" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1717:1754" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="1763:1810" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2057:2175" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2086:2172" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2135:2167" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2221:2428" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2263:2389" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2292:2385" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2343:2379" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2396:2424" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2455:2842" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2859:3396" ph="{...}" />
-            <marker date="1540671157430" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
+        <state relative-caret-position="1065">
           <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
           <folding>
             <marker date="1540671157430" expanded="false" signature="6:111" ph="..." />
@@ -638,6 +615,13 @@
             <marker date="1540671157430" expanded="true" signature="3328:3451" ph="{...}" />
             <marker date="1540671157430" expanded="true" signature="3520:3854" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
         </state>
       </provider>
     </entry>
