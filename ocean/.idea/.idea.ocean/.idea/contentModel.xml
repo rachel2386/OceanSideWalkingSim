@@ -281,7 +281,6 @@
           <e p="Script" t="Include">
             <e p="CameraEffect.cs" t="Include" />
             <e p="FreeCamera.cs" t="Include" />
-            <e p="showWireframe.cs" t="Include" />
           </e>
           <e p="Shader" t="Include">
             <e p="Thermal Vision.shader" t="Include" />
