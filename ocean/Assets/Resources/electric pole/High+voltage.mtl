@@ -1,0 +1,79 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Metal_Aluminum_Anodized_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_Metal_Aluminum_Anodized_2.jpg
+
+newmtl _Metal_Seamed_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_Metal_Seamed_1.jpg
+
+newmtl marmore_branco_espirito_santo
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.976471 0.972549
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/marmore_branco_espirito_santo.jpg
+
+newmtl Color_009
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Color_D01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.749020 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _40
+Ka 0.000000 0.000000 0.000000
+Kd 0.721569 0.682353 0.631373
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_40.jpg
+
+newmtl _39
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.525490 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_39.jpg
+
+newmtl _Metal_Seamed_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_Metal_Seamed_4.jpg
+
+newmtl _Metal_Aluminum_Anodized_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_Metal_Aluminum_Anodized_1.jpg
+
+newmtl _Metal_Seamed_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_Metal_Seamed_2.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Metal_Aluminum_Anodized_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.462745 0.250980
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_Metal_Aluminum_Anodized_4.jpg
+
+newmtl _Metal_Seamed_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.462745 0.466667 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd High+voltage/_Metal_Seamed_3.jpg
+
