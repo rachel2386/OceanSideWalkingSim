@@ -46,4 +46,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Dimensions: {r: 1, g: 1, b: 0, a: 0}
     - _RandomFractions: {r: 0.78637993, g: 0.74210846, b: 0, a: 0}
-    - _Rnd: {r: 2.07257, g: 1.4411728, b: 0, a: 0}
+    - _Rnd: {r: 1.1118553, g: 0.0135912895, b: 0, a: 0}
