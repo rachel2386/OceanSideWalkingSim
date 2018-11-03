@@ -14,19 +14,19 @@ OcclusionCullingSettings:
 RenderSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 9
-  m_Fog: 0
-  m_FogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  m_FogMode: 3
-  m_FogDensity: 0.01
+  m_Fog: 1
+  m_FogColor: {r: 0.6132076, g: 0.6132076, b: 0.6132076, a: 1}
+  m_FogMode: 2
+  m_FogDensity: 0.09
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 1
+  m_AmbientIntensity: 1.65
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 9bf666435cc415b4b884296e5e3802e1, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.6408383, g: 0.65362215, b: 0.64094, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -8081,11 +8081,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4147291886267776, guid: 6d007b388d2f1274a9ec317e9ebfc64e, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -65.98576
+      value: -65.99
       objectReference: {fileID: 0}
     - target: {fileID: 4147291886267776, guid: 6d007b388d2f1274a9ec317e9ebfc64e, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 10.11
+      value: 8.93
       objectReference: {fileID: 0}
     - target: {fileID: 4147291886267776, guid: 6d007b388d2f1274a9ec317e9ebfc64e, type: 2}
       propertyPath: m_LocalPosition.z
@@ -8430,15 +8430,15 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -65.44
+      value: -65.3
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 10.68
+      value: 8.21
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -85.34
+      value: -85.14
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
       propertyPath: m_LocalRotation.x
@@ -8501,7 +8501,13 @@ Prefab:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 2000000, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
+      propertyPath: m_RenderingPath
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 114907777271237870, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
+    - {fileID: 114800139007669464, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 2}
   m_IsPrefabAsset: 0
 --- !u!43 &531939879
@@ -9288,7 +9294,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-2576
+  m_Name: pb_Mesh-1891760
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -11386,7 +11392,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-2574
+  m_Name: pb_Mesh-1891758
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -12149,7 +12155,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-2570
+  m_Name: pb_Mesh-1891754
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -32336,7 +32342,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-2572
+  m_Name: pb_Mesh-1891756
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -33187,7 +33193,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-1990
+  m_Name: pb_Mesh-1891174
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -34842,6 +34848,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 23060648451058886, guid: 0e62d5dc83bd8724d831be422dafd104,
+        type: 2}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6439415fe61de6b4a8e2a38988d71818, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0e62d5dc83bd8724d831be422dafd104, type: 2}
   m_IsPrefabAsset: 0
