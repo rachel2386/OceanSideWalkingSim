@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Thermal Vision
+  m_Name: Thermal Vision 1
   m_Shader: {fileID: 4800000, guid: 0690e5dc6a3db7c4a88442f0842e5f9d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _HeatLookupTex:
-        m_Texture: {fileID: 2800000, guid: c3144f04ce3939940a2f79d58476b11b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 19555d7d9d114c7f1100f5ab44295342, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -27,7 +27,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NoiseTex:
-        m_Texture: {fileID: 2800000, guid: 0b20d0ae77e7c184b8abe949f9e89fed, type: 3}
+        m_Texture: {fileID: 2800000, guid: dc97187fca1dcaf4e84e8b5f414a64ba, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 1, y: 0}
     m_Floats:
@@ -46,4 +46,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Dimensions: {r: 1, g: 1, b: 0, a: 0}
     - _RandomFractions: {r: 0.78637993, g: 0.74210846, b: 0, a: 0}
-    - _Rnd: {r: 1.2697589, g: 2.3386765, b: 0, a: 0}
+    - _Rnd: {r: 1.4242828, g: 2.1135669, b: 0, a: 0}

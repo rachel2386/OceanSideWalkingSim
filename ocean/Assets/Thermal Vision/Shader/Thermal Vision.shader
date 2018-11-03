@@ -41,7 +41,7 @@
 		float4 c = tex2D(_MainTex, i.uv);
 
 		// glow
-		float glow = 0.0113 * (2.0 - max(c.r, c.g));
+		float glow = (2.0 - max(c.r, c.g)) * 0.0113;
 
 		// blur
 		for (int n = 0; n < 4; n++)

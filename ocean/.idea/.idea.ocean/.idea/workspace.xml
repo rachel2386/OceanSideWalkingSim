@@ -2,10 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup 1.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup 1.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup1.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup1.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise1.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise1.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials/Cliff_2_Diffuse.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials/Cliff_2_Diffuse.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/FrontColor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/FrontColor.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/_10042_Sea_Turtle_V2_iterations_0_10042_Sea_Turtle_V2_iteration.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/_10042_Sea_Turtle_V2_iterations_0_10042_Sea_Turtle_V2_iteration.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/_LimeGreen_.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/_LimeGreen_.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Trash Bin/Trash.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Trash Bin/Trash.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/top_building/gardu.obj.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/top_building/gardu.obj.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/cloudySkybox.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/cloudySkybox.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup.tga.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup.tga.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise.tga" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise.tga" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +38,7 @@
     <session id="1475604938">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -25,20 +46,22 @@
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2586" />
-          <entry key="txt" value="1633" />
+          <entry key="cs" value="2607" />
+          <entry key="shader" value="12" />
+          <entry key="txt" value="1782" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2586" />
-          <entry key="PLAIN_TEXT" value="1633" />
+          <entry key="C#" value="2607" />
+          <entry key="PLAIN_TEXT" value="1782" />
+          <entry key="ShaderLab" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -50,13 +73,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cs" value="16" />
-          <entry key="shader" value="1" />
+          <entry key="shader" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="16" />
-          <entry key="ShaderLab" value="1" />
+          <entry key="ShaderLab" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -117,7 +140,59 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+              <folding>
+                <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+                <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -126,6 +201,8 @@
       <find>yRot</find>
       <find>fpCo</find>
       <find>curRotate</find>
+      <find>depth</find>
+      <find>heatlookup</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -134,14 +211,17 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OceanSide/Assets/pickupItem.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -153,8 +233,9 @@
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/playonce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" />
       </list>
     </option>
   </component>
@@ -165,9 +246,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="732" />
+    <option name="x" value="270" />
+    <option name="y" value="140" />
+    <option name="width" value="1335" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -175,6 +257,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -182,15 +268,22 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
             </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="LuxWater" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="LuxWater" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,6 +343,7 @@
       <workItem from="1540864120292" duration="1154000" />
       <workItem from="1540868622663" duration="174000" />
       <workItem from="1541079179943" duration="1550000" />
+      <workItem from="1541276974850" duration="1948000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -416,7 +510,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34297000" />
+    <option name="totallyTimeSpent" value="37899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,10 +522,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
+    <frame x="216" y="112" width="1068" height="795" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48251748" visible="true" weight="0.27786753" />
-      <window_info id="Structure" order="1" sideWeight="0.5174825" side_tool="true" visible="true" weight="0.27786753" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4827586" visible="true" weight="0.27227724" />
+      <window_info id="Structure" order="1" sideWeight="0.51724136" side_tool="true" visible="true" weight="0.27227724" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -442,7 +537,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.25528702" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -509,7 +604,8 @@
     <MESSAGE value="just commiting workspace" />
     <MESSAGE value="Added an electrical pole" />
     <MESSAGE value="Added a cave door." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a cave door." />
+    <MESSAGE value="tweak thermal vision shader and duplicated thermal vision material&#10;&#10;change shader for turtle" />
+    <option name="LAST_COMMIT_MESSAGE" value="tweak thermal vision shader and duplicated thermal vision material&#10;&#10;change shader for turtle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -561,11 +657,27 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/ObjectController.cs" />
     <entry file="file://$USER_HOME$/Desktop/PickUpObject.cs" />
-    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+        <state relative-caret-position="270">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <marker date="1541089570458" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541089570458" expanded="true" signature="121:1176" ph="{...}" />
+            <marker date="1541089570458" expanded="true" signature="440:507" ph="{...}" />
+            <marker date="1541089570458" expanded="true" signature="526:840" ph="{...}" />
+            <marker date="1541089570458" expanded="true" signature="899:1053" ph="{...}" />
+            <marker date="1541089570458" expanded="true" signature="918:1006" ph="{...}" />
+            <marker date="1541089570458" expanded="true" signature="1013:1050" ph="{...}" />
+            <marker date="1541089570458" expanded="true" signature="1068:1174" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -576,17 +688,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        <state relative-caret-position="1200">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="80">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <marker date="1541277434393" expanded="true" signature="24:1870" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="38:382" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="393:1550" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1567:1868" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1576:1712" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1646:1703" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1720:1862" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1790:1847" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+          <folding>
+            <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+            <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
