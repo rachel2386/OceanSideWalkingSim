@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="Added a mixer.">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,12 +100,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="70" />
+          <entry key="txt" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="PLAIN_TEXT" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open" />
@@ -252,7 +249,7 @@
       <workItem from="1540868622663" duration="174000" />
       <workItem from="1541079179943" duration="2623000" />
       <workItem from="1541169272125" duration="2000" />
-      <workItem from="1541275102150" duration="597000" />
+      <workItem from="1541275102150" duration="1577000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -429,11 +426,32 @@
       <option name="project" value="LOCAL" />
       <updated>1541088027010</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Added a cave door.">
+      <created>1541276649367</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1541276649367</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added dotween and changed the spacing of the sounds.">
+      <created>1541276699765</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1541276699765</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added a mixer.">
+      <created>1541280647207</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1541280647207</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35969000" />
+    <option name="totallyTimeSpent" value="36949000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,7 +544,9 @@
     <MESSAGE value="just commiting workspace" />
     <MESSAGE value="Added an electrical pole" />
     <MESSAGE value="Added a cave door." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a cave door." />
+    <MESSAGE value="Added dotween and changed the spacing of the sounds." />
+    <MESSAGE value="Added a mixer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a mixer." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
