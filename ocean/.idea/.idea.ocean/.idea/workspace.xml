@@ -3,73 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/metal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/metal.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/waterSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/waterSurface.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Submarine.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Submarine.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/poly rock cube.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/poly rock cube.fbx.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/ReflectionProbe-0.exr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,11 +99,12 @@
     <session id="395644643">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -182,59 +124,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="862">
-              <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
-              <folding>
-                <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
-                <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
-                <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -251,17 +141,14 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../OceanSide/Assets/pickupItem.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -284,11 +171,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="270" />
-    <option name="y" value="-23" />
-    <option name="width" value="1335" />
-    <option name="height" value="994" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="732" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -296,9 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -307,21 +190,13 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
             </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="LuxWater" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="LuxWater" type="1045f7f1:UnityExplorerNode" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -346,11 +221,82 @@
           <option name="myId" value="UPDATED" />
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/Material.005.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/Prefabs/City.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials/Cliff_2_Diffuse.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/FrontColor.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/_10042_Sea_Turtle_V2_iterations_0_10042_Sea_Turtle_V2_iteration.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/_LimeGreen_.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/metal.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/waterSurface.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/Trash Bin/Trash.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/top_building/gardu.obj.meta</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide.unity</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/LightingData.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/ReflectionProbe-0.exr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Textures/cloudySkybox.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup.tga.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise.tga</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -358,58 +304,14 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb 1.wav</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb 1.wav.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb.wav</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb.wav.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Mixers.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Mixers/OceanCave.mixer</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Mixers/OceanCave.mixer.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.XML</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.XML.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll.mdb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll.mdb.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.XML</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.XML.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll.mdb</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll.mdb.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer_dark.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer_dark.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Header.jpg</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Header.jpg.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/readme.txt</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/readme.txt.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/Prefabs/gardu.prefab</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/Prefabs/gardu.prefab.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup 1.tga</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup 1.tga.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup1.tga</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup1.tga.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise1.tga</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise1.tga.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -417,11 +319,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb 1.wav</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb 1.wav.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb.wav</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb.wav.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/Electric pole/High+voltage.obj.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -557,7 +454,8 @@
       <workItem from="1541079179943" duration="2623000" />
       <workItem from="1541169272125" duration="2000" />
       <workItem from="1541275102150" duration="1602000" />
-      <workItem from="1541280763916" duration="92000" />
+      <workItem from="1541280763916" duration="738000" />
+      <workItem from="1541300536172" duration="1172000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -762,11 +660,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541280740819</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added a mixer.">
+      <created>1541283239366</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1541283239366</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37655000" />
+    <option name="totallyTimeSpent" value="38884000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,11 +683,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48134327" visible="true" weight="0.18431635" />
-      <window_info id="Structure" order="1" sideWeight="0.51865673" side_tool="true" visible="true" weight="0.18431635" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47319347" visible="true" weight="0.2956381" />
+      <window_info id="Structure" order="1" sideWeight="0.52680653" side_tool="true" visible="true" weight="0.2956381" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -793,7 +697,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.2397163" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -915,41 +819,11 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/ObjectController.cs" />
     <entry file="file://$USER_HOME$/Desktop/PickUpObject.cs" />
-    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
+        <state relative-caret-position="179">
           <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
-          <folding>
-            <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
-            <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
-            <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
