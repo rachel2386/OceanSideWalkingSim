@@ -18,8 +18,8 @@ public class CameraEffect : MonoBehaviour
 	}
     void Update ()
 	{
-		float x = Random.Range (0f, 3f);
-		float y = Random.Range (0f, 3f);
+		float x = Random.Range (0f, 0.5f);
+		float y = Random.Range (0f, 0.5f);
 		m_Mat.SetVector ("_Rnd", new Vector4 (x, y, 0f, 0f));
 		m_Mat.SetVector ("_Dimensions", new Vector4 (m_DimensionsX, m_DimensionsY, 0f, 0f));
 		m_Mat.SetFloat ("_HotLight", m_ThermalHigh);

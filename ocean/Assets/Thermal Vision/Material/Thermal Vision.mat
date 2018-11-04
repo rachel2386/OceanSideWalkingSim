@@ -28,7 +28,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _NoiseTex:
         m_Texture: {fileID: 2800000, guid: 0b20d0ae77e7c184b8abe949f9e89fed, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 1, y: 0}
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Amplitude: 0.8
@@ -46,4 +46,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Dimensions: {r: 1, g: 1, b: 0, a: 0}
     - _RandomFractions: {r: 0.78637993, g: 0.74210846, b: 0, a: 0}
-    - _Rnd: {r: 0.4879725, g: 0.4362284, b: 0, a: 0}
+    - _Rnd: {r: 0.47632915, g: 0.41868502, b: 0, a: 0}

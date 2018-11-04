@@ -2,15 +2,267 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Submarine.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Submarine.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Changelog.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Fonts/NewFontZ white.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Fonts/NewFontZ white.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Fonts/Roboto-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Fonts/Roboto-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Fonts/ZwriteFont.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Fonts/ZwriteFont.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Particles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Particles/Floating Underwater Particles.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Particles/Floating Underwater Particles.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Particles/Like Premul Alpha Blended.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Particles/Like Premul Alpha Blended.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/SoilBeach [Albedo] [Smoothness].mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/SoilBeach [Albedo] [Smoothness].mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Water Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Water Projectors/Foam Projector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Water Projectors/Foam Projector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Water Projectors/Ripples Normal Projector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Water Projectors/Ripples Normal Projector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Water Projectors/Simple Foam Projector.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/Water Projectors/Simple Foam Projector.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/gray.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/gray.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/white.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Materials/white.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Big Terrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Big Terrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Fjord.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Fjord.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/OceanPlane.FBX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/OceanPlane.FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/RiverMesh.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/RiverMesh.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Materials/Sub_Body.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Materials/Sub_Body.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Materials/Sub_Details.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Materials/Sub_Details.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Submarine.3DS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Submarine.3DS.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Textures/Sub_Body.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Textures/Sub_Body.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Textures/Sub_Details.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Models/Submarine/Textures/Sub_Details.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Small Terrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Objects/Small Terrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs/Water Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs/Water Projectors/PF_Water Foam Projector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs/Water Projectors/PF_Water Foam Projector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs/Water Projectors/PF_Water Normal Projector Ripples.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs/Water Projectors/PF_Water Normal Projector Ripples.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs/Water Projectors/PF_Water Simple Foam Projector.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Prefabs/Water Projectors/PF_Water Simple Foam Projector.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Fjord Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Fjord Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Gerstner Displacement Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Gerstner Displacement Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Simple Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Simple Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/Sphere 1.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/Sphere 1.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/Sphere.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/Sphere.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/SphereAnimation 1.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/SphereAnimation 1.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/SphereAnimation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Projectors Demo/SphereAnimation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Main Camera.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Main Camera.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Submarine.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/Submarine.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/camera_animation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/camera_animation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/submarine animation.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scenes/LuxWater Water Volume Demo/submarine animation.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scripts/LuxWater_ExtendedFlycam.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scripts/LuxWater_ExtendedFlycam.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scripts/LuxWater_SetToGerstnerHeight.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Scripts/LuxWater_SetToGerstnerHeight.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/FreeHDRI Skies.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/FreeHDRI Skies/277-free-hdri-skies-com.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/FreeHDRI Skies/277-free-hdri-skies-com.hdr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/FreeHDRI Skies/355-free-hdri-skies-com.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/FreeHDRI Skies/355-free-hdri-skies-com.hdr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/Sky_Dawn.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/Sky_Dawn.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/Sky_Noon.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Skys/Sky_Noon.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/SoilBeach [Albedo] [Smoothness].psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/SoilBeach [Albedo] [Smoothness].psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/SoilBeach [Normal].psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/SoilBeach [Normal].psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Foam Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Foam Projectors/LuxFoamSpot.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Foam Projectors/LuxFoamSpot.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Normal Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Normal Projectors/Ripple 01 [Normal].psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Normal Projectors/Ripple 01 [Normal].psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Normal Projectors/Ripple 02 [Normal].psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Projectors/Normal Projectors/Ripple 02 [Normal].psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Caustics [Noise] [Mask].psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Caustics [Noise] [Mask].psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Foam [Normal] [Mask].psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Foam [Normal] [Mask].psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Materials/Caustics [Noise] [Mask].mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Materials/Caustics [Noise] [Mask].mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Materials/Foam [Normal] [Mask].mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Materials/Foam [Normal] [Mask].mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Materials/Water [Normal].mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Materials/Water [Normal].mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Water [Normal].psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/Water Textures/Water [Normal].psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/dot premul.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/dot premul.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/dot.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Textures/dot.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water cristal clear gerstner.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water cristal clear gerstner.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water generic displacement sample.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water generic displacement sample.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water generic planar.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water generic planar.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water muddy fjord planar gerstner.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water muddy fjord planar gerstner.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water muddy pond.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water muddy pond.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water muddy river.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water muddy river.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water stylized planar.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water stylized planar.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water water volume.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Demos/Water Materials/water water volume.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/PostProcessingStack_1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/PostProcessingStack_1/Fog.__shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/PostProcessingStack_1/Fog.__shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/PostProcessingStack_2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/PostProcessingStack_2/DeferredFog.__shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/PostProcessingStack_2/DeferredFog.__shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/FogShaders/Readme.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Lux Water 1.05.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Lux Water 1.05.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_CameraDepthModeEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_CameraDepthModeEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_GFDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_GFDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_MaterialEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_MaterialEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorFourDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorFourDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorFourGFDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorFourGFDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorThreeDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorThreeDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorTwoDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Editor/LuxWater_VectorTwoDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_PlanarReflection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_PlanarReflection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_PlanarWaterTile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_PlanarWaterTile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_Projector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_Projector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_ProjectorRenderer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_ProjectorRenderer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_UnderWaterBlur.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_UnderWaterBlur.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_UnderWaterRendering.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_UnderWaterRendering.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_WaterVolume.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_WaterVolume.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_WaterVolumeTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_WaterVolumeTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Utils.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Utils/LuxWater_Utils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Scripts/Utils/LuxWater_Utils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Includes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Includes/LuxWater_GerstnerWaves.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Includes/LuxWater_GerstnerWaves.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Includes/LuxWater_PBSLighting.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Includes/LuxWater_PBSLighting.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Includes/LuxWater_Utils.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Includes/LuxWater_Utils.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Particles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Particles/Lux Like Premultiply Blend.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Particles/Lux Like Premultiply Blend.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Particles/Lux Underwater Alpha Blended.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Particles/Lux Underwater Alpha Blended.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Projectors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Projectors/LuxWater_FoamProjector.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Projectors/LuxWater_FoamProjector.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Projectors/LuxWater_NormalProjector.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Projectors/LuxWater_NormalProjector.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_BlurEffectConeTaps.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_BlurEffectConeTaps.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_Debug.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_Debug.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_DebugNormals.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_DebugNormals.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_UnderWaterPost.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_UnderWaterPost.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_WaterMask.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Shaders/Resources/LuxWater_WaterMask.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterPlane_HighTess.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterPlane_HighTess.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterPlane_LowTess.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterPlane_LowTess.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterVolume_HighTess.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterVolume_HighTess.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterVolume_LowTess.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LuxWater/Water Meshes/WaterVolume_LowTess.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material Palette.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/metal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/metal.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/mud.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/mud.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/poly rock cube.fbx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/poly rock cube.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/Rocks.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Rocks.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +287,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2586" />
-          <entry key="txt" value="1633" />
+          <entry key="cs" value="2596" />
+          <entry key="txt" value="1805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2586" />
-          <entry key="PLAIN_TEXT" value="1633" />
+          <entry key="C#" value="2596" />
+          <entry key="PLAIN_TEXT" value="1805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -53,14 +305,14 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="16" />
-          <entry key="shader" value="1" />
+          <entry key="cs" value="17" />
+          <entry key="shader" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="16" />
-          <entry key="ShaderLab" value="1" />
+          <entry key="C#" value="17" />
+          <entry key="ShaderLab" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -99,12 +351,11 @@
     <session id="395644643">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -124,7 +375,117 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-48">
+              <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+              <folding>
+                <marker date="1540486456148" expanded="false" signature="6:111" ph="..." />
+                <marker date="1540486456148" expanded="true" signature="165:3863" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="213:3861" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="784:818" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="883:1031" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="1105:2312" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="1198:2286" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="1693:2048" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2069:2235" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2359:2636" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2429:2626" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2676:2841" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2884:3461" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="2941:3011" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3058:3127" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3162:3288" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3328:3451" ph="{...}" />
+                <marker date="1540486456148" expanded="true" signature="3520:3854" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="862">
+              <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+              <folding>
+                <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+                <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+                <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+              <folding>
+                <marker date="1541277434393" expanded="true" signature="24:1870" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="38:382" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="393:1550" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1567:1868" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1576:1712" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1646:1703" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1720:1862" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1790:1847" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+              <folding>
+                <marker date="1541286386294" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541286386294" expanded="true" signature="121:1180" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="440:507" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="526:844" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="903:1057" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="922:1010" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="1017:1054" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="1072:1178" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -141,14 +502,15 @@
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Shaders/LuxWater.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LuxWater/Scripts/LuxWater_CameraDepthMode.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../OceanSide/Assets/pickupItem.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,8 +522,8 @@
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/playonce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" />
       </list>
     </option>
   </component>
@@ -171,10 +533,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="732" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="270" />
+    <option name="y" value="140" />
+    <option name="width" value="1335" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,6 +545,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -194,9 +560,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -221,82 +584,11 @@
           <option name="myId" value="UPDATED" />
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials/Cliff_2_Diffuse.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/FrontColor.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/_10042_Sea_Turtle_V2_iterations_0_10042_Sea_Turtle_V2_iteration.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/_LimeGreen_.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/metal.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/waterSurface.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/Trash Bin/Trash.prefab</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/top_building/gardu.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/Material.005.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/Prefabs/City.prefab</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide.unity</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/LightingData.asset</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide/ReflectionProbe-0.exr</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Textures/cloudySkybox.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup.tga.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise.tga</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -304,14 +596,58 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup 1.tga</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup 1.tga.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup1.tga</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatLookup1.tga.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise1.tga</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Thermal Vision/Texture/HeatNoise1.tga.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb 1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb 1.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/AMB/69391__zixem__cave-amb.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Mixers.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Mixers/OceanCave.mixer</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Mixers/OceanCave.mixer.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.XML</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.XML.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll.mdb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll.mdb.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/DOTween.dll.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.XML</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.XML.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll.mdb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll.mdb.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer_dark.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Footer_dark.png.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Header.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Editor/Imgs/Header.jpg.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUI.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/readme.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Demigiant/DOTween/readme.txt.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/Prefabs/gardu.prefab</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Resources/Prefabs/gardu.prefab.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -319,6 +655,11 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb 1.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb 1.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb.wav</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Audio/Sound effects/69391__zixem__cave-amb.wav.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/Electric pole/High+voltage.obj.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -454,8 +795,7 @@
       <workItem from="1541079179943" duration="2623000" />
       <workItem from="1541169272125" duration="2000" />
       <workItem from="1541275102150" duration="1602000" />
-      <workItem from="1541280763916" duration="738000" />
-      <workItem from="1541300536172" duration="1172000" />
+      <workItem from="1541280763916" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -660,18 +1000,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541280740819</updated>
     </task>
-    <task id="LOCAL-00030" summary="Added a mixer.">
-      <created>1541283239366</created>
+    <task id="LOCAL-00030" summary="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane">
+      <created>1541285200480</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1541283239366</updated>
+      <updated>1541285200480</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="built exit to cave">
+      <created>1541299975087</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1541299975087</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38884000" />
+    <option name="totallyTimeSpent" value="40465000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -683,11 +1030,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47319347" visible="true" weight="0.2956381" />
-      <window_info id="Structure" order="1" sideWeight="0.52680653" side_tool="true" visible="true" weight="0.2956381" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48134327" visible="true" weight="0.18431635" />
+      <window_info id="Structure" order="1" sideWeight="0.51865673" side_tool="true" visible="true" weight="0.18431635" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -697,7 +1046,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.3296875" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.2397163" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -767,7 +1116,9 @@
     <MESSAGE value="Added a cave door." />
     <MESSAGE value="Added dotween and changed the spacing of the sounds." />
     <MESSAGE value="Added a mixer." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a mixer." />
+    <MESSAGE value="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane" />
+    <MESSAGE value="built exit to cave" />
+    <option name="LAST_COMMIT_MESSAGE" value="built exit to cave" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -819,25 +1170,10 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/ObjectController.cs" />
     <entry file="file://$USER_HOME$/Desktop/PickUpObject.cs" />
-    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        <state relative-caret-position="1200">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -845,6 +1181,98 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <marker date="1541277434393" expanded="true" signature="24:1870" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="38:382" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="393:1550" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1567:1868" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1576:1712" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1646:1703" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1720:1862" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1790:1847" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <marker date="1541286386294" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541286386294" expanded="true" signature="121:1180" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="440:507" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="526:844" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="903:1057" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="922:1010" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="1017:1054" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="1072:1178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="74" column="12" selection-start-line="74" selection-start-column="12" selection-end-line="74" selection-end-column="12" />
+          <folding>
+            <marker date="1540486456148" expanded="false" signature="6:111" ph="..." />
+            <marker date="1540486456148" expanded="true" signature="165:3863" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="213:3861" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="784:818" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="883:1031" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="1105:2312" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="1198:2286" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="1693:2048" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2069:2235" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2359:2636" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2429:2626" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2676:2841" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2884:3461" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="2941:3011" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3058:3127" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3162:3288" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3328:3451" ph="{...}" />
+            <marker date="1540486456148" expanded="true" signature="3520:3854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+          <folding>
+            <marker date="1540566178943" expanded="false" signature="6:170" ph="..." />
+            <marker date="1540566178943" expanded="true" signature="216:3398" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="756:1020" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1075:2011" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1134:1334" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1174:1247" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1286:1322" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1358:2008" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1626:1678" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1717:1754" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="1763:1810" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2057:2175" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2086:2172" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2135:2167" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2221:2428" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2263:2389" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2292:2385" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2343:2379" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2396:2424" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
+            <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
+          </folding>
         </state>
       </provider>
     </entry>
