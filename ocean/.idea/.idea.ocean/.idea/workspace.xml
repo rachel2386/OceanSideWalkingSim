@@ -3,72 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/metal.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/metal.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/waterSurface.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/waterSurface.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/DOTweenSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-0_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-10_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-11_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-12_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-13_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-14_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-15_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-16_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-17_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-18_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-19_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-1_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-20_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-21_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-22_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-23_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-24_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-25_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-26_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-27_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-28_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-2_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-3_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-4_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-5_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-6_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-7_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-8_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/Lightmap-9_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide/ReflectionProbe-0.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,14 +29,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2586" />
-          <entry key="txt" value="1633" />
+          <entry key="cs" value="2596" />
+          <entry key="txt" value="1773" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2586" />
-          <entry key="PLAIN_TEXT" value="1633" />
+          <entry key="C#" value="2596" />
+          <entry key="PLAIN_TEXT" value="1773" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -112,14 +47,14 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="16" />
-          <entry key="shader" value="1" />
+          <entry key="cs" value="17" />
+          <entry key="shader" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="16" />
-          <entry key="ShaderLab" value="1" />
+          <entry key="C#" value="17" />
+          <entry key="ShaderLab" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -201,7 +136,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="862">
@@ -229,6 +164,44 @@
                 <marker date="1540566178943" expanded="true" signature="2455:2842" ph="{...}" />
                 <marker date="1540566178943" expanded="true" signature="2859:3396" ph="{...}" />
                 <marker date="1540566178943" expanded="true" signature="2946:3112" ph="/* Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+              <folding>
+                <marker date="1541277434393" expanded="true" signature="24:1870" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="38:382" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="393:1550" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1567:1868" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1576:1712" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1646:1703" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1720:1862" ph="{...}" />
+                <marker date="1541277434393" expanded="true" signature="1790:1847" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+              <folding>
+                <marker date="1541286386294" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541286386294" expanded="true" signature="121:1180" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="440:507" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="526:844" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="903:1057" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="922:1010" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="1017:1054" ph="{...}" />
+                <marker date="1541286386294" expanded="true" signature="1072:1178" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -273,8 +246,8 @@
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/playonce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" />
       </list>
     </option>
   </component>
@@ -286,7 +259,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="270" />
-    <option name="y" value="-23" />
+    <option name="y" value="140" />
     <option name="width" value="1335" />
     <option name="height" value="994" />
   </component>
@@ -762,11 +735,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541280740819</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane">
+      <created>1541285200480</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1541285200480</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37655000" />
+    <option name="totallyTimeSpent" value="39179000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,7 +758,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48134327" visible="true" weight="0.18431635" />
@@ -863,7 +843,8 @@
     <MESSAGE value="Added a cave door." />
     <MESSAGE value="Added dotween and changed the spacing of the sounds." />
     <MESSAGE value="Added a mixer." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a mixer." />
+    <MESSAGE value="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane" />
+    <option name="LAST_COMMIT_MESSAGE" value="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -960,17 +941,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding>
+            <marker date="1541277434393" expanded="true" signature="24:1870" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="38:382" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="393:1550" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1567:1868" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1576:1712" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1646:1703" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1720:1862" ph="{...}" />
+            <marker date="1541277434393" expanded="true" signature="1790:1847" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="63" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+          <folding>
+            <marker date="1541286386294" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541286386294" expanded="true" signature="121:1180" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="440:507" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="526:844" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="903:1057" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="922:1010" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="1017:1054" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="1072:1178" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
