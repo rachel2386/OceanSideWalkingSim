@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,12 +102,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="212" />
+          <entry key="txt" value="566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="212" />
+          <entry key="PLAIN_TEXT" value="566" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open" />
@@ -255,7 +252,7 @@
       <workItem from="1541169272125" duration="2000" />
       <workItem from="1541275102150" duration="1602000" />
       <workItem from="1541280763916" duration="92000" />
-      <workItem from="1541364772987" duration="1053000" />
+      <workItem from="1541364772987" duration="2551000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -530,11 +527,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541366127645</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="I added more trash and added a major animation for all the trash in the water to bob. &#10;&#10;I moved the pipes so they don't block us. I changed the inside of the mountain and top slightly to hide the poles.&#10;&#10;*note animations that have an empty parent all need to individually be moved in the animator.">
+      <created>1541369304900</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1541369304900</updated>
+    </task>
+    <task id="LOCAL-00041" summary="All trash bob fixed.">
+      <created>1541370559502</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1541370559502</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44298000" />
+    <option name="totallyTimeSpent" value="45796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -611,8 +622,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="DISABLED TERRAIN AND ADDED IN PLANE TO SCENE &#10;IMPORTED PROBUILDER AND PROGRID&#10;CHANGE SKYBOX TO DEFAULT" />
-    <MESSAGE value="BUILT SIMPLE MAP WITH PROBUILDER" />
     <MESSAGE value="CHANGED NAME OF BUILDING CUBE" />
     <MESSAGE value="added turtle with plastic prefab and texture to scene" />
     <MESSAGE value="first major push after github breakdown &#10;&#10;finished low poly landscape &#10;&#10;created 6 basic materials to distinguish tiers&#10;&#10;added a cave to player starting point" />
@@ -636,7 +645,9 @@
     <MESSAGE value="added 2 security gates and tweaked shape of mesh to fit &#10;&#10;tweaked collider of stairs and ramps" />
     <MESSAGE value="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map" />
     <MESSAGE value="I added the animation, trash bob for the trash to &quot;float&quot; in the water." />
-    <option name="LAST_COMMIT_MESSAGE" value="I added the animation, trash bob for the trash to &quot;float&quot; in the water." />
+    <MESSAGE value="I added more trash and added a major animation for all the trash in the water to bob. &#10;&#10;I moved the pipes so they don't block us. I changed the inside of the mountain and top slightly to hide the poles.&#10;&#10;*note animations that have an empty parent all need to individually be moved in the animator." />
+    <MESSAGE value="All trash bob fixed." />
+    <option name="LAST_COMMIT_MESSAGE" value="All trash bob fixed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
