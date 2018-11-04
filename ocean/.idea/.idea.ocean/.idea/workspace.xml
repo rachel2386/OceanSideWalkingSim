@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Electric pole/High+voltage.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/genarator.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/security+gate.obj.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/Overhang.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Overhang.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,12 +105,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="142" />
+          <entry key="txt" value="212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="142" />
+          <entry key="PLAIN_TEXT" value="212" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open" />
@@ -259,7 +255,7 @@
       <workItem from="1541169272125" duration="2000" />
       <workItem from="1541275102150" duration="1602000" />
       <workItem from="1541280763916" duration="92000" />
-      <workItem from="1541364772987" duration="140000" />
+      <workItem from="1541364772987" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -520,11 +516,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541314980543</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map">
+      <created>1541365881499</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1541365881499</updated>
+    </task>
+    <task id="LOCAL-00039" summary="I added the animation, trash bob for the trash to &quot;float&quot; in the water.">
+      <created>1541366127645</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1541366127645</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43385000" />
+    <option name="totallyTimeSpent" value="44298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,7 +611,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="CHANGED WATER SHADER FOR DEFERRED RENDERING" />
     <MESSAGE value="DISABLED TERRAIN AND ADDED IN PLANE TO SCENE &#10;IMPORTED PROBUILDER AND PROGRID&#10;CHANGE SKYBOX TO DEFAULT" />
     <MESSAGE value="BUILT SIMPLE MAP WITH PROBUILDER" />
     <MESSAGE value="CHANGED NAME OF BUILDING CUBE" />
@@ -626,7 +635,8 @@
     <MESSAGE value="cleaned up path to prevent player from dropping down the side &#10;&#10;change the angle of beams  were too easy to stuck between beams" />
     <MESSAGE value="added 2 security gates and tweaked shape of mesh to fit &#10;&#10;tweaked collider of stairs and ramps" />
     <MESSAGE value="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map" />
-    <option name="LAST_COMMIT_MESSAGE" value="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map" />
+    <MESSAGE value="I added the animation, trash bob for the trash to &quot;float&quot; in the water." />
+    <option name="LAST_COMMIT_MESSAGE" value="I added the animation, trash bob for the trash to &quot;float&quot; in the water." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
