@@ -94,12 +94,6 @@
                 <e p="ProjectorMultiply.shader" t="Include" />
               </e>
             </e>
-            <e p="TessellationShaders" t="Include">
-              <e p="Shaders" t="Include">
-                <e p="BumpedSpecularDisplacement.shader" t="Include" />
-                <e p="BumpedSpecularSmooth.shader" t="Include" />
-              </e>
-            </e>
             <e p="ToonShading" t="Include">
               <e p="Shaders" t="Include">
                 <e p="ToonBasic.shader" t="Include" />
