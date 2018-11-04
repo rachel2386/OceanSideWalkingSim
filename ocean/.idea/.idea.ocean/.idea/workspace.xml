@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/generator.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/generator.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +34,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="2596" />
-          <entry key="txt" value="2124" />
+          <entry key="txt" value="2237" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="2596" />
-          <entry key="PLAIN_TEXT" value="2124" />
+          <entry key="PLAIN_TEXT" value="2237" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -784,11 +788,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541308360992</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="added 2 security gates and tweaked shape of mesh to fit &#10;&#10;tweaked collider of stairs and ramps">
+      <created>1541311747304</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1541311747304</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42023000" />
+    <option name="totallyTimeSpent" value="42707000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -800,7 +811,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48134327" visible="true" weight="0.18431635" />
@@ -866,7 +877,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="changed flashlight toggle key mapping from X to E" />
     <MESSAGE value="applied waterSurface shader to ocean surface. &#10;Added city skybox" />
     <MESSAGE value="CHANGED WATER SHADER FOR DEFERRED RENDERING" />
     <MESSAGE value="DISABLED TERRAIN AND ADDED IN PLANE TO SCENE &#10;IMPORTED PROBUILDER AND PROGRID&#10;CHANGE SKYBOX TO DEFAULT" />
@@ -891,7 +901,8 @@
     <MESSAGE value="added generator to scene &#10;&#10;added ramp to cave &#10;&#10;added metal material &amp; texture" />
     <MESSAGE value="added generator to scene &#10;&#10;added ramp to cave &#10;&#10;added metal material &amp; texture&#10;&#10;removed lux water" />
     <MESSAGE value="cleaned up path to prevent player from dropping down the side &#10;&#10;change the angle of beams  were too easy to stuck between beams" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaned up path to prevent player from dropping down the side &#10;&#10;change the angle of beams  were too easy to stuck between beams" />
+    <MESSAGE value="added 2 security gates and tweaked shape of mesh to fit &#10;&#10;tweaked collider of stairs and ramps" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 2 security gates and tweaked shape of mesh to fit &#10;&#10;tweaked collider of stairs and ramps" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
