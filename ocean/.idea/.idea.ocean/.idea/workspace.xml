@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="I added the toon yellow shader to all of the trash.">
-      <change beforePath="$PROJECT_DIR$/Assets/Models/Electric pole/High+voltage.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/genarator.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/security+gate.obj.meta" beforeDir="false" />
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,12 +104,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="696" />
+          <entry key="txt" value="747" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="696" />
+          <entry key="PLAIN_TEXT" value="747" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open" />
@@ -371,7 +371,7 @@
       <workItem from="1541169272125" duration="2000" />
       <workItem from="1541275102150" duration="1602000" />
       <workItem from="1541280763916" duration="92000" />
-      <workItem from="1541364772987" duration="4155000" />
+      <workItem from="1541364772987" duration="4940000" />
     </task>
     <task id="LOCAL-00001" summary="changed flashlight toggle key mapping from X to E">
       <created>1539096551237</created>
@@ -674,11 +674,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541374442915</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="slightly moved our container lower into the ground.">
+      <created>1541374873219</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1541374873219</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47400000" />
+    <option name="totallyTimeSpent" value="48185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -755,7 +762,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="first major push after github breakdown &#10;&#10;finished low poly landscape &#10;&#10;created 6 basic materials to distinguish tiers&#10;&#10;added a cave to player starting point" />
     <MESSAGE value="prefabs of landscape model,&#10;turtle model &#10;cargo box at starting position &#10;rock formations&#10;overhang&#10;bridge and distanced city &#10;material files for landscape" />
     <MESSAGE value="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup" />
     <MESSAGE value="imported pickup item script&#10;&#10;added objectHolder under rigidbody Controller&#10;&#10;added tag &quot;items&quot;" />
@@ -780,7 +786,8 @@
     <MESSAGE value="All trash bob fixed." />
     <MESSAGE value="I created a heck ton more colliders so troublemakers can't just run to the top." />
     <MESSAGE value="I added the toon yellow shader to all of the trash." />
-    <option name="LAST_COMMIT_MESSAGE" value="I added the toon yellow shader to all of the trash." />
+    <MESSAGE value="slightly moved our container lower into the ground." />
+    <option name="LAST_COMMIT_MESSAGE" value="slightly moved our container lower into the ground." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
