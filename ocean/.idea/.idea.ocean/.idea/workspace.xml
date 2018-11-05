@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="text UI added to show num of trash needed to open gate">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/LandFill.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/LandFill.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,14 +48,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3499" />
-          <entry key="txt" value="2968" />
+          <entry key="cs" value="4543" />
+          <entry key="txt" value="3016" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3499" />
-          <entry key="PLAIN_TEXT" value="2968" />
+          <entry key="C#" value="4543" />
+          <entry key="PLAIN_TEXT" value="3016" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -179,7 +179,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="-1808">
               <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding>
                 <marker date="1541404012894" expanded="false" signature="6:170" ph="..." />
@@ -233,24 +233,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            <state relative-caret-position="286">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
               <folding>
-                <marker date="1541447193717" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541447193717" expanded="true" signature="125:2096" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="190:245" ph="/* public float startZ = 0; ... */" />
-                <marker date="1541447193717" expanded="true" signature="359:895" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="363:426" ph="/* after spawnTime, call MakeEnemy function ... */" />
-                <marker date="1541447193717" expanded="true" signature="572:761" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="617:673" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="711:757" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="776:883" ph="/* plane = GameObject.FindGameObjectWithTag(&quot;Ground&quot;).transform; ... */" />
-                <marker date="1541447193717" expanded="true" signature="950:957" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="977:2094" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="1177:1214" ph="/* planeWorldPos; ... */" />
-                <marker date="1541447193717" expanded="true" signature="1307:1591" ph="/* next two lines commented out because it reaches all depth of children ... */" />
-                <marker date="1541447193717" expanded="true" signature="1646:1993" ph="{...}" />
-                <marker date="1541447193717" expanded="true" signature="2032:2075" ph="{...}" />
+                <marker date="1541454524364" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541454524364" expanded="true" signature="125:2473" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="190:245" ph="/* public float startZ = 0; ... */" />
+                <marker date="1541454524364" expanded="true" signature="440:1120" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="444:507" ph="/* after spawnTime, call MakeEnemy function ... */" />
+                <marker date="1541454524364" expanded="true" signature="653:986" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="698:898" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="936:982" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="1001:1108" ph="/* plane = GameObject.FindGameObjectWithTag(&quot;Ground&quot;).transform; ... */" />
+                <marker date="1541454524364" expanded="true" signature="1175:1182" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="1202:2469" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="1415:1452" ph="/* planeWorldPos; ... */" />
+                <marker date="1541454524364" expanded="true" signature="1545:1829" ph="/* next two lines commented out because it reaches all depth of children ... */" />
+                <marker date="1541454524364" expanded="true" signature="1890:2390" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="2084:2305" ph="/* new Vector3(Random.Range(planePos.x- (planeScale.x/2), ... */" />
               </folding>
             </state>
           </provider>
@@ -328,8 +328,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="136" />
-    <option name="y" value="25" />
+    <option name="x" value="-73" />
+    <option name="y" value="130" />
     <option name="width" value="1400" />
     <option name="height" value="885" />
   </component>
@@ -418,14 +418,7 @@
       <workItem from="1541275102150" duration="1602000" />
       <workItem from="1541280763916" duration="92000" />
       <workItem from="1541364772987" duration="4940000" />
-      <workItem from="1541442696729" duration="3429000" />
-    </task>
-    <task id="LOCAL-00003" summary="applied waterSurface shader to ocean surface. &#10;Added city skybox">
-      <created>1539873919610</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1539873919610</updated>
+      <workItem from="1541442696729" duration="10552000" />
     </task>
     <task id="LOCAL-00004" summary="CHANGED WATER SHADER FOR DEFERRED RENDERING">
       <created>1539877128018</created>
@@ -763,11 +756,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541444527810</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Added in Landfill and random Placement Script">
+      <created>1541447598298</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1541447598298</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57274000" />
+    <option name="totallyTimeSpent" value="64397000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -779,11 +779,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-58" y="104" width="1120" height="708" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47761193" visible="true" weight="0.18967828" />
-      <window_info id="Structure" order="1" sideWeight="0.52238804" side_tool="true" visible="true" weight="0.18967828" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47783253" visible="true" weight="0.26647833" />
+      <window_info id="Structure" order="1" sideWeight="0.5221675" side_tool="true" visible="true" weight="0.26647833" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -794,7 +794,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.2397163" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.29391304" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -845,7 +845,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="just commiting workspace" />
     <MESSAGE value="Added an electrical pole" />
     <MESSAGE value="Added a cave door." />
     <MESSAGE value="Added dotween and changed the spacing of the sounds." />
@@ -870,7 +869,8 @@
     <MESSAGE value="gateAnimation and new gate script" />
     <MESSAGE value="GATE OPENS WHEN THREE TRASH ARE COLLECTED" />
     <MESSAGE value="text UI added to show num of trash needed to open gate" />
-    <option name="LAST_COMMIT_MESSAGE" value="text UI added to show num of trash needed to open gate" />
+    <MESSAGE value="Added in Landfill and random Placement Script" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added in Landfill and random Placement Script" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -969,41 +969,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-          <folding>
-            <marker date="1541404012894" expanded="false" signature="6:170" ph="..." />
-            <marker date="1541404012894" expanded="true" signature="216:4200" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="801:1088" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1143:2263" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1244:1396" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1288:1388" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1418:1544" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1456:1535" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1568:2218" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1836:1888" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1927:1964" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="1973:2020" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2309:2428" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2338:2425" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2388:2420" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2474:2682" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2516:2643" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2545:2639" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2597:2633" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2650:2678" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2709:3382" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="2745:3272" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="3399:4003" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="3447:3655" ph="/* itemTransform.SetParent(trashCan); ... */" />
-            <marker date="1541404012894" expanded="true" signature="4022:4124" ph="{...}" />
-            <marker date="1541404012894" expanded="true" signature="4142:4198" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -1036,26 +1001,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1808">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding>
+            <marker date="1541404012894" expanded="false" signature="6:170" ph="..." />
+            <marker date="1541404012894" expanded="true" signature="216:4200" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="801:1088" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1143:2263" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1244:1396" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1288:1388" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1418:1544" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1456:1535" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1568:2218" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1836:1888" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1927:1964" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="1973:2020" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2309:2428" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2338:2425" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2388:2420" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2474:2682" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2516:2643" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2545:2639" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2597:2633" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2650:2678" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2709:3382" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="2745:3272" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="3399:4003" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="3447:3655" ph="/* itemTransform.SetParent(trashCan); ... */" />
+            <marker date="1541404012894" expanded="true" signature="4022:4124" ph="{...}" />
+            <marker date="1541404012894" expanded="true" signature="4142:4198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="286">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
           <folding>
-            <marker date="1541447193717" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541447193717" expanded="true" signature="125:2096" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="190:245" ph="/* public float startZ = 0; ... */" />
-            <marker date="1541447193717" expanded="true" signature="359:895" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="363:426" ph="/* after spawnTime, call MakeEnemy function ... */" />
-            <marker date="1541447193717" expanded="true" signature="572:761" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="617:673" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="711:757" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="776:883" ph="/* plane = GameObject.FindGameObjectWithTag(&quot;Ground&quot;).transform; ... */" />
-            <marker date="1541447193717" expanded="true" signature="950:957" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="977:2094" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="1177:1214" ph="/* planeWorldPos; ... */" />
-            <marker date="1541447193717" expanded="true" signature="1307:1591" ph="/* next two lines commented out because it reaches all depth of children ... */" />
-            <marker date="1541447193717" expanded="true" signature="1646:1993" ph="{...}" />
-            <marker date="1541447193717" expanded="true" signature="2032:2075" ph="{...}" />
+            <marker date="1541454524364" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541454524364" expanded="true" signature="125:2473" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="190:245" ph="/* public float startZ = 0; ... */" />
+            <marker date="1541454524364" expanded="true" signature="440:1120" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="444:507" ph="/* after spawnTime, call MakeEnemy function ... */" />
+            <marker date="1541454524364" expanded="true" signature="653:986" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="698:898" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="936:982" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="1001:1108" ph="/* plane = GameObject.FindGameObjectWithTag(&quot;Ground&quot;).transform; ... */" />
+            <marker date="1541454524364" expanded="true" signature="1175:1182" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="1202:2469" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="1415:1452" ph="/* planeWorldPos; ... */" />
+            <marker date="1541454524364" expanded="true" signature="1545:1829" ph="/* next two lines commented out because it reaches all depth of children ... */" />
+            <marker date="1541454524364" expanded="true" signature="1890:2390" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="2084:2305" ph="/* new Vector3(Random.Range(planePos.x- (planeScale.x/2), ... */" />
           </folding>
         </state>
       </provider>

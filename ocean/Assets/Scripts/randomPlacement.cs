@@ -10,7 +10,10 @@ public class randomPlacement : MonoBehaviour {
 	//public float startZ = 0;
 	//public float xLimit = 20;
 	public int maxNum = 0;
-	private Transform planeTransform;
+	private Collider planeTransform;
+	private Vector3 minBound;
+	private Vector3 maxBound;
+	private Vector3 ColCenter;
 	
 	
 	
@@ -27,8 +30,10 @@ public class randomPlacement : MonoBehaviour {
 		{
 			for(int i = 0; i < plane.Length; i++)
 			{
-				planeTransform = plane[i].transform;
-				
+				planeTransform = plane[i].GetComponent<MeshCollider>();
+				minBound = planeTransform.bounds.min;
+				maxBound = planeTransform.bounds.max;
+				ColCenter = planeTransform.bounds.center;
 			}
 			
 			if (trashNum.Length <= maxNum)
@@ -54,8 +59,8 @@ public class randomPlacement : MonoBehaviour {
 	
 	void MakeTrash()
 	{
-		Vector3 planePos = planeTransform.position;
-		Vector3 planeScale = planeTransform.localScale;
+		Vector3 planePos = ColCenter;//planeTransform.position;
+		Vector3 planeScale = planeTransform.bounds.size;
 		Debug.Log("VplanePos" + planePos);
 		var trashNum = GameObject.FindGameObjectsWithTag("trash");
 		//planeWorldPos;
@@ -67,29 +72,31 @@ public class randomPlacement : MonoBehaviour {
 		//GameObject randomObject = childs[Random.Range(0, childs.Length)].gameObject;
 		
 		// change transform of only first depth of children
+		
+		
 		foreach (Transform childTrans in newTrash.transform)
 		{
-			childTrans.transform.position = 
-				new Vector3(Random.Range(planePos.x- (planeScale.x/2), 
+			
+			
+			childTrans.transform.position =
+
+				new Vector3(Random.Range(maxBound.x, minBound.x),Random.Range(maxBound.y,minBound.y), Random.Range(maxBound.z,minBound.z)) * multiplier;
+				/*new Vector3(Random.Range(planePos.x- (planeScale.x/2), 
 						planePos.x + (planeScale.x/2)),
 					planePos.y + 0.1f,
 					Random.Range(planePos.z- (planeScale.z/2),
-						planePos.z + (planeScale.z/2))) * multiplier;
+						planePos.z + (planeScale.z/2))) * multiplier;*/
 			
 			childTrans.transform.eulerAngles = new Vector3(90,0,Random.Range(0,360));
 		}
-		
+
 		
 		if (trashNum.Length <= maxNum)
-		{
 			Invoke("MakeTrash", spawnTime);
-		}
-		
-		
-		
-
-		
 
 	
+
 	}
+
+
 }
