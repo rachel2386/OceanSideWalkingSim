@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="modified pickup script so that item appears at location of reticle. &#10;&#10;item attached to trashcan when dropped off. &#10;&#10;removed fleshlight from playercontroller&#10;&#10;removed pickup script from objectHolder and attached to items.">
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,13 +44,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="2620" />
-          <entry key="txt" value="2620" />
+          <entry key="txt" value="2724" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="2620" />
-          <entry key="PLAIN_TEXT" value="2620" />
+          <entry key="PLAIN_TEXT" value="2724" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -814,11 +813,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541397571020</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="replaced trashcan with plastic opaque one &#10;&#10;moved animation and animators into animation folder">
+      <created>1541399031060</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1541399031060</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50506000" />
+    <option name="totallyTimeSpent" value="51170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -896,7 +902,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup" />
     <MESSAGE value="imported pickup item script&#10;&#10;added objectHolder under rigidbody Controller&#10;&#10;added tag &quot;items&quot;" />
     <MESSAGE value="fixed the pickup script so player can only pickup when colliding with items" />
     <MESSAGE value="fixed the pickup script so player can inspect the item when dragging mouse&#10;&#10;fixed the pickup script so when item is dropped off the scale remains the same. &#10;&#10;unparented seaturtle from mapSmall" />
@@ -921,7 +926,8 @@
     <MESSAGE value="I added the toon yellow shader to all of the trash." />
     <MESSAGE value="slightly moved our container lower into the ground." />
     <MESSAGE value="modified pickup script so that item appears at location of reticle. &#10;&#10;item attached to trashcan when dropped off. &#10;&#10;removed fleshlight from playercontroller&#10;&#10;removed pickup script from objectHolder and attached to items." />
-    <option name="LAST_COMMIT_MESSAGE" value="modified pickup script so that item appears at location of reticle. &#10;&#10;item attached to trashcan when dropped off. &#10;&#10;removed fleshlight from playercontroller&#10;&#10;removed pickup script from objectHolder and attached to items." />
+    <MESSAGE value="replaced trashcan with plastic opaque one &#10;&#10;moved animation and animators into animation folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="replaced trashcan with plastic opaque one &#10;&#10;moved animation and animators into animation folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
