@@ -12,7 +12,6 @@ using UnityEngine.SocialPlatforms;
 public class PickupItem : MonoBehaviour
 {
 	private Transform holder;
-	private Animator canAnim;
 	private Rigidbody itemRB;
 	private Transform itemTransform;
 	
@@ -29,7 +28,10 @@ public class PickupItem : MonoBehaviour
 	private float timeDuration =0.20f;
 	bool mousePressed = false;
 	public Transform reticleTransform;
-	private int trashCounter = 0;
+	public int trashCounter = 0;
+	
+	private Animator canAnim;
+	private Animator gateAnim;
 	
 	// Use this for initialization
 	void Start ()
@@ -48,7 +50,8 @@ public class PickupItem : MonoBehaviour
 	void Update () {
 
 		Debug.Log("pickedup=" + pickedup);
-
+		Debug.Log("counter" + trashCounter);
+		
 		
 
 		if (pickedup)
@@ -70,6 +73,7 @@ public class PickupItem : MonoBehaviour
 			{
 					
 				onDestroy();
+				trashCounter++;
 				mousePressed = false;
 			}
 				
@@ -96,6 +100,9 @@ public class PickupItem : MonoBehaviour
 				finalRotatespeed += (tgtRotatespeed - finalRotatespeed) * 0.1f * Time.deltaTime * smoother;
 				itemTransform.RotateAround((rotateAxis), Time.deltaTime * finalRotatespeed * smoother);
 			}
+		
+		if (trashCounter >=3)
+			OpenGate();
 	}
 
 	private void OnTriggerEnter(Collider other)
@@ -199,6 +206,15 @@ public class PickupItem : MonoBehaviour
 		Destroy(gameObject);
 		canAnim.SetTrigger("trashIn");
 		//canAnim.ResetTrigger("trashIn");
-		trashCounter++;
+		
+	}
+
+	void OpenGate()
+	{
+		
+			gateAnim.SetBool("openGate", true);
+			
+		
+
 	}
 }
