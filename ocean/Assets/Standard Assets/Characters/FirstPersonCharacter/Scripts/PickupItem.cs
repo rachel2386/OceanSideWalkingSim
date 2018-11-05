@@ -12,7 +12,7 @@ using UnityEngine.SocialPlatforms;
 public class PickupItem : MonoBehaviour
 {
 	private Transform holder;
-	//private Transform trashCan;
+	private Animator canAnim;
 	private Rigidbody itemRB;
 	private Transform itemTransform;
 	
@@ -29,10 +29,12 @@ public class PickupItem : MonoBehaviour
 	private float timeDuration =0.20f;
 	bool mousePressed = false;
 	public Transform reticleTransform;
+	private int trashCounter = 0;
 	
 	// Use this for initialization
 	void Start ()
 	{
+		canAnim = GameObject.Find("TrashCan").GetComponent<Animator>();
 		//trashCan = GameObject.Find("Trash").transform;
 		holder = GameObject.Find("objectHolder").transform;
 		
@@ -67,7 +69,7 @@ public class PickupItem : MonoBehaviour
 			if (Input.GetMouseButtonUp(0))
 			{
 					
-				Destroy(gameObject);
+				onDestroy();
 				mousePressed = false;
 			}
 				
@@ -190,5 +192,13 @@ public class PickupItem : MonoBehaviour
 		itemRB.detectCollisions = false;
 		//item.GetComponent<Collider>().enabled = true;
 		
+	}
+
+	void onDestroy()
+	{
+		Destroy(gameObject);
+		canAnim.SetTrigger("trashIn");
+		//canAnim.ResetTrigger("trashIn");
+		trashCounter++;
 	}
 }
