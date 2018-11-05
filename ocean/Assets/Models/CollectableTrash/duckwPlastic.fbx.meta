@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: d7a55a5c8b2947743b44a9286971abd5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 12249_Bird_v1
+    100002: Camera
+    100004: //RootNode
+    100006: Mesh1 Component_1_1 Model
+    100008: Mesh1 G_18_5__Screw1 Model
+    100010: Mesh1 Model
+    100012: Mesh1 Model.001
+    100014: Mesh1 Model.002
+    100016: Mesh10 Group6 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    100018: Mesh11 Group7 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    100020: Mesh12 Group8 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    100022: Mesh14 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    100024: Mesh15 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    100026: Mesh16 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    100028: Mesh2 Component_1_2 Model
+    100030: Mesh2 drucik1 Model
+    100032: Mesh2 Wooden_Nut1 Model
+    100034: Mesh20 Group12 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    100036: Mesh24 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    100038: Mesh3 Component_1_3 Model
+    100040: Mesh3 drucik2 Model
+    100042: Mesh3 Garter_Half_Plate1 Top Garter1 Model
+    100044: Mesh32 Group13 OPI_Nail_Polish_Bottle_5_1 Model
+    100046: Mesh4 Component_1_4 Model
+    100048: Mesh4 Garter_Half_Plate2 Bottom Garter1 Model
+    100050: Mesh4 Model
+    100052: Mesh5 Component_1_5 Model
+    100054: Sun
+    400000: 12249_Bird_v1
+    400002: Camera
+    400004: //RootNode
+    400006: Mesh1 Component_1_1 Model
+    400008: Mesh1 G_18_5__Screw1 Model
+    400010: Mesh1 Model
+    400012: Mesh1 Model.001
+    400014: Mesh1 Model.002
+    400016: Mesh10 Group6 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    400018: Mesh11 Group7 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    400020: Mesh12 Group8 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    400022: Mesh14 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    400024: Mesh15 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    400026: Mesh16 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    400028: Mesh2 Component_1_2 Model
+    400030: Mesh2 drucik1 Model
+    400032: Mesh2 Wooden_Nut1 Model
+    400034: Mesh20 Group12 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    400036: Mesh24 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    400038: Mesh3 Component_1_3 Model
+    400040: Mesh3 drucik2 Model
+    400042: Mesh3 Garter_Half_Plate1 Top Garter1 Model
+    400044: Mesh32 Group13 OPI_Nail_Polish_Bottle_5_1 Model
+    400046: Mesh4 Component_1_4 Model
+    400048: Mesh4 Garter_Half_Plate2 Bottom Garter1 Model
+    400050: Mesh4 Model
+    400052: Mesh5 Component_1_5 Model
+    400054: Sun
+    2000000: Camera
+    2100000: M_0084_MediumTurquoise
+    2100002: M_0020_Red
+    2100004: _Color_008_2
+    2100006: Bottle_03
+    2100008: _Color_A06_1
+    2100010: M_0056_Yellow
+    2100012: FrontColor.002
+    2100014: _LightSlateGray_
+    2100016: FrontColor.001
+    2100018: Color_I01
+    2100020: Color_B01
+    2100022: FrontColor
+    2100024: 12249_Bird_v1
+    2100026: Color_I01.001
+    2100028: Color_B01.001
+    2100030: Color_I01.002
+    2100032: Color_B01.002
+    2300000: 12249_Bird_v1
+    2300002: Mesh1 Component_1_1 Model
+    2300004: Mesh1 G_18_5__Screw1 Model
+    2300006: Mesh1 Model
+    2300008: Mesh1 Model.001
+    2300010: Mesh1 Model.002
+    2300012: Mesh10 Group6 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    2300014: Mesh11 Group7 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    2300016: Mesh12 Group8 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    2300018: Mesh14 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    2300020: Mesh15 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    2300022: Mesh16 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    2300024: Mesh2 Component_1_2 Model
+    2300026: Mesh2 drucik1 Model
+    2300028: Mesh2 Wooden_Nut1 Model
+    2300030: Mesh20 Group12 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    2300032: Mesh24 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    2300034: Mesh3 Component_1_3 Model
+    2300036: Mesh3 drucik2 Model
+    2300038: Mesh3 Garter_Half_Plate1 Top Garter1 Model
+    2300040: Mesh32 Group13 OPI_Nail_Polish_Bottle_5_1 Model
+    2300042: Mesh4 Component_1_4 Model
+    2300044: Mesh4 Garter_Half_Plate2 Bottom Garter1 Model
+    2300046: Mesh4 Model
+    2300048: Mesh5 Component_1_5 Model
+    3300000: 12249_Bird_v1
+    3300002: Mesh1 Component_1_1 Model
+    3300004: Mesh1 G_18_5__Screw1 Model
+    3300006: Mesh1 Model
+    3300008: Mesh1 Model.001
+    3300010: Mesh1 Model.002
+    3300012: Mesh10 Group6 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    3300014: Mesh11 Group7 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    3300016: Mesh12 Group8 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    3300018: Mesh14 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    3300020: Mesh15 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    3300022: Mesh16 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    3300024: Mesh2 Component_1_2 Model
+    3300026: Mesh2 drucik1 Model
+    3300028: Mesh2 Wooden_Nut1 Model
+    3300030: Mesh20 Group12 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    3300032: Mesh24 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    3300034: Mesh3 Component_1_3 Model
+    3300036: Mesh3 drucik2 Model
+    3300038: Mesh3 Garter_Half_Plate1 Top Garter1 Model
+    3300040: Mesh32 Group13 OPI_Nail_Polish_Bottle_5_1 Model
+    3300042: Mesh4 Component_1_4 Model
+    3300044: Mesh4 Garter_Half_Plate2 Bottom Garter1 Model
+    3300046: Mesh4 Model
+    3300048: Mesh5 Component_1_5 Model
+    4300000: Mesh16 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    4300002: Mesh24 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    4300004: Mesh15 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    4300006: Mesh14 OPI_1_2 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    4300008: Mesh12 Group8 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    4300010: Mesh11 Group7 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    4300012: Mesh10 Group6 Group5 OPI_Nail_Polish_Bottle_12_1 Model
+    4300014: Mesh32 Group13 OPI_Nail_Polish_Bottle_5_1 Model
+    4300016: Mesh20 Group12 Group9 OPI_Nail_Polish_Bottle_1_1 Model
+    4300018: Mesh5 Component_1_5 Model
+    4300020: Mesh1 Component_1_1 Model
+    4300022: Mesh2 Component_1_2 Model
+    4300024: Mesh4 Component_1_4 Model
+    4300026: Mesh3 Component_1_3 Model
+    4300028: Mesh3 drucik2 Model
+    4300030: Mesh4 Model
+    4300032: Mesh2 drucik1 Model
+    4300034: Mesh1 Model
+    4300036: Mesh1 G_18_5__Screw1 Model
+    4300038: Mesh2 Wooden_Nut1 Model
+    4300040: Mesh4 Garter_Half_Plate2 Bottom Garter1 Model
+    4300042: Mesh3 Garter_Half_Plate1 Top Garter1 Model
+    4300044: 12249_Bird_v1
+    4300046: Mesh1 Model.001
+    4300048: Mesh1 Model.002
+    10800000: Sun
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12249_Bird_v1
+    second: {fileID: 2100000, guid: d3be8dfe2aa441f43b38169f2ede315f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottle_03
+    second: {fileID: 2100000, guid: 7650087dcf4252c4dbed70ceaf3baba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B01
+    second: {fileID: 2100000, guid: bc3e7271956b53241970c1e399167466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B01.001
+    second: {fileID: 2100000, guid: 7b3f7718f8829ca4884426d4ef918aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B01.002
+    second: {fileID: 2100000, guid: fe7f619a9a9e1d943b7250d722a87d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_I01
+    second: {fileID: 2100000, guid: 90f1103d38837f747b8f301dc40615a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_I01.001
+    second: {fileID: 2100000, guid: 7e338eb658d08b4478d357e94296bb09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_I01.002
+    second: {fileID: 2100000, guid: 1d5a92915d9870a42bd77a8818f8944c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 0c9596a334e27244faed2f1a7888545b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor.001
+    second: {fileID: 2100000, guid: 08fe15a15885c544e94d9d88095d04fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor.002
+    second: {fileID: 2100000, guid: 6eaa732968cda1e469bd3b82aa4c67ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0020_Red
+    second: {fileID: 2100000, guid: 7ec17f472b9854e48b151fe4f8257785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0056_Yellow
+    second: {fileID: 2100000, guid: 7f1a38be34655584d9b02bd47b63e663, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_0084_MediumTurquoise
+    second: {fileID: 2100000, guid: 7f6b57e172f7ddd4a99307923611ec29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_008_2
+    second: {fileID: 2100000, guid: 3d96ac6f83f292d43ac5ccc37a4995c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Color_A06_1
+    second: {fileID: 2100000, guid: 7dff5eb827cdff44eaa60f91ac9c953e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _LightSlateGray_
+    second: {fileID: 2100000, guid: eb229ba16504b8248ad37208bbe9f1a5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
