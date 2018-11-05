@@ -20,9 +20,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4607176351043172}
   - component: {fileID: 54892555726328622}
+  - component: {fileID: 114312927615458344}
   m_Layer: 0
   m_Name: fishWStraw
-  m_TagString: Untagged
+  m_TagString: items
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,8 +82,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1043234272919062}
-  m_LocalRotation: {x: -0, y: 0.21753517, z: -0, w: 0.97605246}
-  m_LocalPosition: {x: 42.33, y: 7.5, z: -7.08}
+  m_LocalRotation: {x: -0, y: 0.21753518, z: -0, w: 0.9760525}
+  m_LocalPosition: {x: 259.77155, y: 44.54, z: 106.3618}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
   m_Children:
   - {fileID: 4928263192698300}
@@ -201,7 +202,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 112
   m_CollisionDetection: 0
 --- !u!64 &64089027946544546
 MeshCollider:
@@ -217,3 +218,16 @@ MeshCollider:
   m_CookingOptions: -1
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: 6a78aa9c931300c4b9de1ffbc85c91f2, type: 3}
+--- !u!114 &114312927615458344
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1043234272919062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9a031ed3c6bfea42ae72e492018ec01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickedup: 0
+  reticleTransform: {fileID: 0}

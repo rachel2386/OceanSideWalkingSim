@@ -12,55 +12,65 @@ using UnityEngine.SocialPlatforms;
 public class PickupItem : MonoBehaviour
 {
 	private Transform holder;
-	private Transform player;
+	private Transform trashCan;
 	private Rigidbody itemRB;
 	private Transform itemTransform;
-	private GameObject item;
-	public Transform itemParent;
+	
+	
 	private bool itemRotate = false;
 	public bool pickedup = false;
+	
 	private Vector3 itemOffset;
-	private Vector3 lastMousePos;
 	private Vector2 rotateAxis;
 	private float finalRotatespeed;
 	private float tgtRotatespeed;
-	private float smoother = 100;
-	private float rotateSpeed = 0.1f;
+	private float smoother = 50;
+	private float rotateSpeed = 0.08f;
 	private float timeDuration =0.20f;
+	bool mousePressed = false;
+	public Transform reticleTransform;
+	
 	// Use this for initialization
 	void Start ()
 	{
-		player = GameObject.FindGameObjectWithTag("Player").transform;
-		holder = transform;
-		item = GameObject.FindGameObjectWithTag("items");
-		itemRB = item.GetComponent<Rigidbody>();
-		itemTransform = item.transform;
-		itemOffset = item.transform.localScale;
+		trashCan = GameObject.Find("Trash").transform;
+		holder = GameObject.Find("objectHolder").transform;
+		
+		itemRB = GetComponent<Rigidbody>();
+		itemTransform = transform;
+		itemOffset = transform.localScale;
+		
 	}
 	
 	// Update is called once per frame
 	void Update () {
 
 		Debug.Log("pickedup=" + pickedup);
+
 		
 
 		if (pickedup)
 		{
+			
 			if (Input.GetMouseButtonDown(0))
 			{
-				Debug.Log("Collided with" + item.name);
+				Debug.Log("Collided with" + gameObject.name);
 				pickup();
-				
+				mousePressed = true;
+
 			}
-				
+			
+		}
+		
+		if(mousePressed)
+		{
 			if (Input.GetMouseButtonUp(0))
 			{
 					
 				dropOff();
-				
+				mousePressed = false;
 			}
-			
-			
+				
 		}
 
 			if (itemRotate)
@@ -91,7 +101,7 @@ public class PickupItem : MonoBehaviour
 
 		if (pickedup == false)
 		{
-			if (other.gameObject.tag.Equals("items"))
+			if (other.gameObject.tag.Equals("Player"))
 			{
 				pickedup = true;
 
@@ -107,7 +117,7 @@ public class PickupItem : MonoBehaviour
 		{
 			if (pickedup == true)
 			{
-				if (other.gameObject.tag.Equals("items"))
+				if (other.gameObject.tag.Equals("Player"))
 				{
 					pickedup = false;
 
@@ -133,14 +143,25 @@ public class PickupItem : MonoBehaviour
 
 	void pickup()
 	{
-		itemRotate = true;
-		itemTransform.SetParent(holder);
-		itemTransform.position = holder.position;
-		itemTransform.rotation = holder.rotation;
-		itemTransform.localScale = itemOffset;
-		itemRB.useGravity = false;
-		itemRB.isKinematic = true;
-		itemRB.detectCollisions = false;
+		
+		
+		if (Camera.main != null)
+		{
+			itemRotate = true;
+			itemTransform.SetParent(holder);
+			
+			Vector3 reticleWorld = Camera.main.ScreenToWorldPoint(reticleTransform.position);//new Vector3(reticleTransform.position.x,reticleTransform.position.y,1f));
+			reticleWorld.z = 0f;
+			itemTransform.InverseTransformPoint(reticleWorld);
+			itemTransform.localEulerAngles = new Vector3(0, 0, 0);//holder.rotation;)
+			
+			itemTransform.localScale = itemOffset;
+			itemRB.useGravity = false;
+			itemRB.isKinematic = true;
+			itemRB.detectCollisions = false;
+		}
+
+		
 		
 	
 		//lastMousePos = Input.mousePosition;
@@ -156,15 +177,17 @@ public class PickupItem : MonoBehaviour
 	{
 		pickedup = false;
 		itemRotate = false;
-		itemTransform.SetParent(itemParent);
+		itemTransform.SetParent(trashCan);
+		
 		//Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position);
 		//Vector3 holderWorldRot = itemTransform.InverseTransformPoint(holder.eulerAngles);
-		itemTransform.position = holder.position;
-		itemTransform.eulerAngles = holder.eulerAngles;
-;		itemTransform.localScale = itemOffset;
-		itemRB.useGravity = true;
+		itemTransform.localPosition = Vector3.zero;
+		itemTransform.localEulerAngles = (Vector3.zero);
+		//itemTransform.eulerAngles = holder.eulerAngles;
+;		itemTransform.localScale = itemOffset * 0.1f;
+		itemRB.useGravity = false;
 		itemRB.isKinematic = false;
-		itemRB.detectCollisions = true;
+		itemRB.detectCollisions = false;
 		//item.GetComponent<Collider>().enabled = true;
 		
 	}
