@@ -15,6 +15,8 @@ public class OpenGate : MonoBehaviour
 	{
 		myAnim = GetComponent<Animator>();
 		CollectNum = GameObject.Find("Text").GetComponent<Text>();
+		
+		
 
 	}
 	
@@ -26,12 +28,12 @@ public class OpenGate : MonoBehaviour
 		Debug.Log("itemsNum = " + itemsWTag.Length );
 		if (itemsWTag.Length > 0)
 		{
-			CollectNum.text = "collectible remaining: " + itemsWTag.Length;
+			CollectNum.text = "COLLECTIBLE REMAINING " + itemsWTag.Length;
 		}
 
 		if (itemsWTag.Length <= 0)
 		{
-			CollectNum.text = "collectible remaining: 0" ;
+			CollectNum.text = "COLLECTIBLE REMAINING : 0" ;
 			CollectNum.color = Color.yellow;
 			myAnim.SetBool("OpenGate",true);
 		}
