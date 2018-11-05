@@ -12,7 +12,7 @@ using UnityEngine.SocialPlatforms;
 public class PickupItem : MonoBehaviour
 {
 	private Transform holder;
-	private Transform trashCan;
+	//private Transform trashCan;
 	private Rigidbody itemRB;
 	private Transform itemTransform;
 	
@@ -33,7 +33,7 @@ public class PickupItem : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		trashCan = GameObject.Find("Trash").transform;
+		//trashCan = GameObject.Find("Trash").transform;
 		holder = GameObject.Find("objectHolder").transform;
 		
 		itemRB = GetComponent<Rigidbody>();
@@ -67,7 +67,7 @@ public class PickupItem : MonoBehaviour
 			if (Input.GetMouseButtonUp(0))
 			{
 					
-				dropOff();
+				Destroy(gameObject);
 				mousePressed = false;
 			}
 				
@@ -177,7 +177,7 @@ public class PickupItem : MonoBehaviour
 	{
 		pickedup = false;
 		itemRotate = false;
-		itemTransform.SetParent(trashCan);
+		//itemTransform.SetParent(trashCan);
 		
 		//Vector3 holderWorldPos = itemTransform.InverseTransformPoint(holder.position);
 		//Vector3 holderWorldRot = itemTransform.InverseTransformPoint(holder.eulerAngles);
