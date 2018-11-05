@@ -4,16 +4,26 @@ using UnityEngine;
 
 public class OpenGate : MonoBehaviour
 {
-	private PickupItem counter = new PickupItem();
+	Animator myAnim;
+	private GameObject[] itemsWTag;
+
 	// Use this for initialization
 	void Start ()
 	{
-		//counter = PickupItem.trashCounter;
+		myAnim = GetComponent<Animator>();
+		
+		
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		
+		itemsWTag = GameObject.FindGameObjectsWithTag("items");
+		Debug.Log("itemsNum = " + itemsWTag.Length );
+		if (itemsWTag.Length <= 0)
+		{
+			
+			myAnim.SetBool("OpenGate",true);
+		}
 	}
 	
 }
