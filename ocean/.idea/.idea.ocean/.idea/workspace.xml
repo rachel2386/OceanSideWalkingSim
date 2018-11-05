@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,12 +102,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="807" />
+          <entry key="txt" value="841" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="807" />
+          <entry key="PLAIN_TEXT" value="841" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -5520,11 +5519,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541396226378</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="added more poles to the structure">
+      <created>1541397261953</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1541397261953</updated>
+    </task>
+    <task id="LOCAL-00048" summary="added more poles to the structure">
+      <created>1541398036055</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1541398036055</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49708000" />
+    <option name="totallyTimeSpent" value="50257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -5537,7 +5550,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46853146" visible="true" weight="0.30533117" />
       <window_info id="Structure" order="1" sideWeight="0.5314685" side_tool="true" visible="true" weight="0.30533117" />
@@ -5602,7 +5614,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup" />
     <MESSAGE value="imported pickup item script&#10;&#10;added objectHolder under rigidbody Controller&#10;&#10;added tag &quot;items&quot;" />
     <MESSAGE value="fixed the pickup script so player can only pickup when colliding with items" />
     <MESSAGE value="fixed the pickup script so player can inspect the item when dragging mouse&#10;&#10;fixed the pickup script so when item is dropped off the scale remains the same. &#10;&#10;unparented seaturtle from mapSmall" />
@@ -5627,7 +5638,8 @@
     <MESSAGE value="I added the toon yellow shader to all of the trash." />
     <MESSAGE value="slightly moved our container lower into the ground." />
     <MESSAGE value="Added animation to the electrical wires!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added animation to the electrical wires!" />
+    <MESSAGE value="added more poles to the structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more poles to the structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -5641,10 +5653,10 @@
           <line>48</line>
           <properties documentPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" initialLine="38">
             <startOffsets>
-              <option value="1130" />
+              <option value="1201" />
             </startOffsets>
             <endOffsets>
-              <option value="1198" />
+              <option value="1220" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
