@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,22 +103,45 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="747" />
+          <entry key="txt" value="807" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="747" />
+          <entry key="PLAIN_TEXT" value="807" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="shader" value="1" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ShaderLab" value="1" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Shader/pb_StandardVertexColor.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1527704437000" expanded="true" signature="42:1441" ph="{...}" />
+                <marker date="1527704437000" expanded="true" signature="56:233" ph="{...}" />
+                <marker date="1527704437000" expanded="true" signature="245:1418" ph="{...}" />
+                <marker date="1527704437000" expanded="true" signature="302:1410" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -137,6 +159,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Shader/pb_StandardVertexColor.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Models/Rusty Flashlight/Scripts/FlashlightToggle.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" root0="FORCE_HIGHLIGHTING" />
@@ -5483,11 +5506,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541374873219</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Added animation to the electrical wires!">
+      <created>1541395439706</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1541395439706</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Added animation to the electrical wires!">
+      <created>1541396226378</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1541396226378</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48794000" />
+    <option name="totallyTimeSpent" value="49708000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -5500,6 +5537,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46853146" visible="true" weight="0.30533117" />
       <window_info id="Structure" order="1" sideWeight="0.5314685" side_tool="true" visible="true" weight="0.30533117" />
@@ -5564,7 +5602,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="prefabs of landscape model,&#10;turtle model &#10;cargo box at starting position &#10;rock formations&#10;overhang&#10;bridge and distanced city &#10;material files for landscape" />
     <MESSAGE value="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup" />
     <MESSAGE value="imported pickup item script&#10;&#10;added objectHolder under rigidbody Controller&#10;&#10;added tag &quot;items&quot;" />
     <MESSAGE value="fixed the pickup script so player can only pickup when colliding with items" />
@@ -5589,7 +5626,8 @@
     <MESSAGE value="I created a heck ton more colliders so troublemakers can't just run to the top." />
     <MESSAGE value="I added the toon yellow shader to all of the trash." />
     <MESSAGE value="slightly moved our container lower into the ground." />
-    <option name="LAST_COMMIT_MESSAGE" value="slightly moved our container lower into the ground." />
+    <MESSAGE value="Added animation to the electrical wires!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added animation to the electrical wires!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -5662,6 +5700,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1246">
           <caret line="142" column="40" selection-start-line="142" selection-start-column="40" selection-end-line="142" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Shader/pb_StandardVertexColor.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1527704437000" expanded="true" signature="42:1441" ph="{...}" />
+            <marker date="1527704437000" expanded="true" signature="56:233" ph="{...}" />
+            <marker date="1527704437000" expanded="true" signature="245:1418" ph="{...}" />
+            <marker date="1527704437000" expanded="true" signature="302:1410" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
