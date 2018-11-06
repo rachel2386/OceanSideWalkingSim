@@ -2,15 +2,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Ending : MonoBehaviour
 {
 	private CameraEffect turnOnThermal;
+	public Image blackImg;
 
 	private bool triggered = false;
 
 	private float timer = 0f;
-
+	private float blackTimer = 0f;
 	public float TotTime = 5f;
 	// Use this for initialization
 	void Start ()
@@ -38,7 +40,12 @@ public class Ending : MonoBehaviour
 			turnOnThermal.m_DimensionsX = Mathf.Lerp(1f,0f,timer/TotTime);
 			turnOnThermal.m_DimensionsY = Mathf.Lerp(1f,0f,timer/TotTime);
 
-			
+			if (timer >= TotTime)
+			{
+				var blackImgColor = blackImg.color;
+				blackTimer+= Time.deltaTime;
+				blackImgColor.a = Mathf.Lerp(0,1,blackTimer/3f);
+			}
 		}
 	}
 

@@ -5,15 +5,16 @@ using UnityEngine;
 
 public class DifferentView : MonoBehaviour
 {
-    public GameObject city;
+    private GameObject city;
 
     private Animator[] cityAnims;
+    float time = 0f;
     //private  cityAnims;
    // private MeshRenderer[] cityMesh;
 
     void Start()
     {
-       
+        city = GameObject.Find("buildings");
         //cityMesh = GetComponentsInChildren<MeshRenderer>();
     }
     
@@ -31,7 +32,10 @@ public class DifferentView : MonoBehaviour
               // Destroy(buildAnim.gameObject);
                if(!buildAnim.GetBool("TurnOnCity"))
                {buildAnim.SetBool("TurnOnCity", true);}
+
                
+              
+
             }
         }
     }
