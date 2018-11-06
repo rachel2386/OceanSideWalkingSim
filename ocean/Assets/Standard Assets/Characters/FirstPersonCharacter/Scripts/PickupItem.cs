@@ -28,17 +28,20 @@ public class PickupItem : MonoBehaviour
 	private float timeDuration =0.20f;
 	bool mousePressed = false;
 	public Transform reticleTransform;
-	public int trashCounter = 0;
+	
 	
 	private Animator canAnim;
 	private Animator gateAnim;
-	
+
+	private AudioSource trashSound;
 	// Use this for initialization
 	void Start ()
 	{
 		canAnim = GameObject.Find("TrashCan").GetComponent<Animator>();
 		//trashCan = GameObject.Find("Trash").transform;
 		holder = GameObject.Find("objectHolder").transform;
+
+		trashSound = GameObject.Find("TrashCan").GetComponent<AudioSource>();
 		
 		itemRB = GetComponent<Rigidbody>();
 		itemTransform = transform;
@@ -50,7 +53,7 @@ public class PickupItem : MonoBehaviour
 	void Update () {
 
 		Debug.Log("pickedup=" + pickedup);
-		Debug.Log("counter" + trashCounter);
+		
 		
 		
 
@@ -73,7 +76,8 @@ public class PickupItem : MonoBehaviour
 			{
 					
 				onDestroy();
-				trashCounter++;
+				if(!trashSound.isPlaying)
+					trashSound.Play();
 				mousePressed = false;
 			}
 				
@@ -101,8 +105,7 @@ public class PickupItem : MonoBehaviour
 				itemTransform.RotateAround((rotateAxis), Time.deltaTime * finalRotatespeed * smoother);
 			}
 		
-		if (trashCounter >=3)
-			OpenGate();
+		
 	}
 
 	private void OnTriggerEnter(Collider other)
@@ -209,12 +212,5 @@ public class PickupItem : MonoBehaviour
 		
 	}
 
-	void OpenGate()
-	{
-		
-			gateAnim.SetBool("openGate", true);
-			
-		
-
-	}
+	
 }
