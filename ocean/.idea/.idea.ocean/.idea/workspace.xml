@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="added tubes for trash receiver and generator">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/PlayerBox/city.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Models/pipeElbow.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
@@ -122,12 +117,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="747" />
+          <entry key="txt" value="805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="747" />
+          <entry key="PLAIN_TEXT" value="805" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open" />
@@ -440,20 +435,6 @@
       <workItem from="1541280763916" duration="92000" />
       <workItem from="1541364772987" duration="4940000" />
       <workItem from="1541442696729" duration="13473000" />
-    </task>
-    <task id="LOCAL-00009" summary="added turtle with plastic prefab and texture to scene">
-      <created>1540175744179</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1540175744179</updated>
-    </task>
-    <task id="LOCAL-00010" summary="first major push after github breakdown &#10;&#10;finished low poly landscape &#10;&#10;created 6 basic materials to distinguish tiers&#10;&#10;added a cave to player starting point">
-      <created>1540263456081</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1540263456081</updated>
     </task>
     <task id="LOCAL-00011" summary="prefabs of landscape model,&#10;turtle model &#10;cargo box at starting position &#10;rock formations&#10;overhang&#10;bridge and distanced city &#10;material files for landscape">
       <created>1540263587329</created>
@@ -784,11 +765,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541459487263</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Added an emission animation to the buildings.">
+      <created>1541470203527</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1541470203527</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Added an emission animation to the buildings.">
+      <created>1541470216059</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1541470216060</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67971000" />
+    <option name="totallyTimeSpent" value="68617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -865,7 +860,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane" />
     <MESSAGE value="built exit to cave" />
     <MESSAGE value="added generator to scene &#10;&#10;added ramp to cave &#10;&#10;added metal material &amp; texture" />
     <MESSAGE value="added generator to scene &#10;&#10;added ramp to cave &#10;&#10;added metal material &amp; texture&#10;&#10;removed lux water" />
@@ -890,7 +884,8 @@
     <MESSAGE value="robot ui added. (experiment)" />
     <MESSAGE value="fixed animation for trash can" />
     <MESSAGE value="added tubes for trash receiver and generator" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tubes for trash receiver and generator" />
+    <MESSAGE value="Added an emission animation to the buildings." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an emission animation to the buildings." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
