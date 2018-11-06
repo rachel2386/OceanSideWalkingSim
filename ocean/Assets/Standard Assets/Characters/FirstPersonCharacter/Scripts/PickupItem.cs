@@ -41,7 +41,8 @@ public class PickupItem : MonoBehaviour
 		//trashCan = GameObject.Find("Trash").transform;
 		holder = GameObject.Find("objectHolder").transform;
 
-		trashSound = GameObject.Find("TrashCan").GetComponent<AudioSource>();
+		var tSounds = GameObject.Find("TrashCan").GetComponents<AudioSource>();
+		trashSound = tSounds[0];
 		
 		itemRB = GetComponent<Rigidbody>();
 		itemTransform = transform;
