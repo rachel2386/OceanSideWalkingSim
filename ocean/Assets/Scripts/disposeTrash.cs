@@ -8,6 +8,10 @@ public class disposeTrash : MonoBehaviour
 {
 	private Animator trashAnim;
 	private Animator backGateAnim;
+	private Animator sparkAnim;
+	private Animator sparkAnim1;
+	private Animator sparkAnim2;
+	private Animator sparkAnim3;
 	private AudioSource disposeSound;
 	private AudioSource BGAudio;
 	private bool bgPlayed = false;
@@ -20,7 +24,8 @@ public class disposeTrash : MonoBehaviour
 	{
 		trashAnim = GameObject.Find("TrashCan").GetComponent<Animator>();
 		backGateAnim = GameObject.Find("BackGate").GetComponent<Animator>();
-		BGAudio = GameObject.Find("BackGate").GetComponent<AudioSource>();
+		sparkAnim = GameObject.Find("ElectricalSpark").GetComponent<Animator>();
+	BGAudio = GameObject.Find("BackGate").GetComponent<AudioSource>();
 		var tSounds = GameObject.Find("TrashCan").GetComponents<AudioSource>();
 		disposeSound = tSounds[1];
 	}
@@ -42,6 +47,12 @@ public class disposeTrash : MonoBehaviour
 				
 				if (!GetComponent<AudioSource>().isPlaying)
 					GetComponent<AudioSource>().Play();
+				sparkAnim.gameObject.SetActive(true);
+				sparkAnim.SetBool("generatorOn",true);
+				
+				
+				//sparkAnim playing
+				
 			}
 
 			if (timer <= 1)
@@ -73,8 +84,6 @@ public class disposeTrash : MonoBehaviour
 				{
 					trashAnim.SetBool("trashDisposed", true);
 				
-
-					
 					generatorOn = true;
 
 				}
