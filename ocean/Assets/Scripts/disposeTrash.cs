@@ -47,6 +47,7 @@ public class disposeTrash : MonoBehaviour
 				
 				if (!GetComponent<AudioSource>().isPlaying)
 					GetComponent<AudioSource>().Play();
+				sparkAnim.gameObject.SetActive(true);
 				sparkAnim.SetBool("generatorOn",true);
 				
 				
@@ -83,8 +84,6 @@ public class disposeTrash : MonoBehaviour
 				{
 					trashAnim.SetBool("trashDisposed", true);
 				
-
-					
 					generatorOn = true;
 
 				}
