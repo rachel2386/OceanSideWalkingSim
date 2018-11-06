@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/All of the trash.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/All of the trash.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CityLights.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CityLights.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Material Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Material Palette.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LightitUP.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LightitUP.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/energy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/energy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/Sound effects/metal_door.wav" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/Sound effects/metal_door.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/generator.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/generator.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/metalTube.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/metalTube.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/wood.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/wood.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_23.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_23.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_9.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_9.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,14 +52,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="7368" />
-          <entry key="txt" value="3581" />
+          <entry key="cs" value="7406" />
+          <entry key="txt" value="3598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="7368" />
-          <entry key="PLAIN_TEXT" value="3581" />
+          <entry key="C#" value="7406" />
+          <entry key="PLAIN_TEXT" value="3598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -269,17 +258,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="448">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
               <folding>
-                <marker date="1541501379784" expanded="false" signature="6:131" ph="..." />
-                <marker date="1541501379784" expanded="true" signature="175:1003" ph="{...}" />
-                <marker date="1541501379784" expanded="true" signature="245:305" ph="/* private  cityAnims; ... */" />
-                <marker date="1541501379784" expanded="true" signature="323:405" ph="{...}" />
-                <marker date="1541501379784" expanded="true" signature="458:999" ph="{...}" />
-                <marker date="1541501379784" expanded="true" signature="517:993" ph="{...}" />
-                <marker date="1541501379784" expanded="true" signature="684:983" ph="{...}" />
-                <marker date="1541501379784" expanded="true" signature="897:953" ph="{...}" />
+                <marker date="1541507383788" expanded="false" signature="6:131" ph="..." />
+                <marker date="1541507383788" expanded="true" signature="175:1018" ph="{...}" />
+                <marker date="1541507383788" expanded="true" signature="245:305" ph="/* private  cityAnims; ... */" />
+                <marker date="1541507383788" expanded="true" signature="323:405" ph="{...}" />
+                <marker date="1541507383788" expanded="true" signature="458:1014" ph="{...}" />
+                <marker date="1541507383788" expanded="true" signature="517:1008" ph="{...}" />
+                <marker date="1541507383788" expanded="true" signature="699:998" ph="{...}" />
+                <marker date="1541507383788" expanded="true" signature="912:968" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -392,9 +381,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
-    <option name="y" value="118" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-209" />
+    <option name="y" value="252" />
     <option name="width" value="1400" />
     <option name="height" value="885" />
   </component>
@@ -441,7 +430,6 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Scenes/oceanSide.unity</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -456,67 +444,12 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="true" />
           <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_A.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_A.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_B.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Grass/Grass_B.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_1/Cliff_1_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Cliff_2_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials/Cliff_2_Diffuse.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Cliff_2/Materials/Cliff_2_Diffuse.mat.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_1/Dirt_1_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Dirt_2_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Materials.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Materials/Dirt_2_Diffuse.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Dirt_2/Materials/Dirt_2_Diffuse.mat.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_1/Grass_1_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Grass_2/Grass_2_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Mossy_Rock/Mossy_Rock_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Materials.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Materials/Sand_Diffuse.mat</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Materials/Sand_Diffuse.mat.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Diffuse.tif</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Diffuse.tif.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Normal.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Environment/Terrain/Textures/Sand/Sand_Normal.png.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Post Processing.meta</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Post Processing/Terrain Image Effects.asset</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Free Island Collection/Post Processing/Terrain Image Effects.asset.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/Electric pole/High+voltage.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/Trashcan_Plastic.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/car_scrap.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/genarator.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/pipeElbow.obj.meta</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Assets/Models/security+gate.obj.meta</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Restored" />
@@ -656,13 +589,6 @@
       <workItem from="1541364772987" duration="4940000" />
       <workItem from="1541442696729" duration="13473000" />
       <workItem from="1541471303142" duration="3428000" />
-    </task>
-    <task id="LOCAL-00024" summary="Added a cave door.">
-      <created>1541087450240</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1541087450240</updated>
     </task>
     <task id="LOCAL-00025" summary="Added a cave door.">
       <created>1541088027010</created>
@@ -1000,11 +926,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541493667941</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="final!!!">
+      <created>1541503685012</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1541503685012</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94688000" />
+    <option name="totallyTimeSpent" value="96114000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1016,11 +949,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="95" width="1120" height="708" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47536945" visible="true" weight="0.2702448" />
-      <window_info id="Structure" order="1" sideWeight="0.52463055" side_tool="true" visible="true" weight="0.2702448" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47574627" visible="true" weight="0.19235925" />
+      <window_info id="Structure" order="1" sideWeight="0.5242537" side_tool="true" visible="true" weight="0.19235925" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -1031,7 +964,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.29391304" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.2397163" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -1082,7 +1015,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="I created a heck ton more colliders so troublemakers can't just run to the top." />
     <MESSAGE value="I added the toon yellow shader to all of the trash." />
     <MESSAGE value="slightly moved our container lower into the ground." />
     <MESSAGE value="modified pickup script so that item appears at location of reticle. &#10;&#10;item attached to trashcan when dropped off. &#10;&#10;removed fleshlight from playercontroller&#10;&#10;removed pickup script from objectHolder and attached to items." />
@@ -1107,7 +1039,8 @@
     <MESSAGE value="sparks on trigger" />
     <MESSAGE value="removed some large trash" />
     <MESSAGE value="sparks anim in place" />
-    <option name="LAST_COMMIT_MESSAGE" value="sparks anim in place" />
+    <MESSAGE value="final!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="final!!!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1273,22 +1206,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ending.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="38" column="74" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
-          <folding>
-            <marker date="1541498062157" expanded="true" signature="6:92" ph="..." />
-            <marker date="1541498062157" expanded="true" signature="129:1174" ph="{...}" />
-            <marker date="1541498062157" expanded="true" signature="306:401" ph="{...}" />
-            <marker date="1541498062157" expanded="true" signature="425:1001" ph="{...}" />
-            <marker date="1541498062157" expanded="true" signature="448:998" ph="{...}" />
-            <marker date="1541498062157" expanded="true" signature="1083:1172" ph="{...}" />
-            <marker date="1541498062157" expanded="true" signature="1131:1164" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -1334,19 +1251,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ending.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="38" column="74" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+          <folding>
+            <marker date="1541498062157" expanded="true" signature="6:92" ph="..." />
+            <marker date="1541498062157" expanded="true" signature="129:1174" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="306:401" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="425:1001" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="448:998" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="1083:1172" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="1131:1164" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="448">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
-            <marker date="1541501379784" expanded="false" signature="6:131" ph="..." />
-            <marker date="1541501379784" expanded="true" signature="175:1003" ph="{...}" />
-            <marker date="1541501379784" expanded="true" signature="245:305" ph="/* private  cityAnims; ... */" />
-            <marker date="1541501379784" expanded="true" signature="323:405" ph="{...}" />
-            <marker date="1541501379784" expanded="true" signature="458:999" ph="{...}" />
-            <marker date="1541501379784" expanded="true" signature="517:993" ph="{...}" />
-            <marker date="1541501379784" expanded="true" signature="684:983" ph="{...}" />
-            <marker date="1541501379784" expanded="true" signature="897:953" ph="{...}" />
+            <marker date="1541507383788" expanded="false" signature="6:131" ph="..." />
+            <marker date="1541507383788" expanded="true" signature="175:1018" ph="{...}" />
+            <marker date="1541507383788" expanded="true" signature="245:305" ph="/* private  cityAnims; ... */" />
+            <marker date="1541507383788" expanded="true" signature="323:405" ph="{...}" />
+            <marker date="1541507383788" expanded="true" signature="458:1014" ph="{...}" />
+            <marker date="1541507383788" expanded="true" signature="517:1008" ph="{...}" />
+            <marker date="1541507383788" expanded="true" signature="699:998" ph="{...}" />
+            <marker date="1541507383788" expanded="true" signature="912:968" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -21,8 +21,8 @@ public class DifferentView : MonoBehaviour
     {
         if (other.gameObject.tag.Contains("Player"))
         {
-            
-            
+
+            RenderSettings.fog = false;
             //var city = GameObject.FindGameObjectsWithTag("building");
             foreach (Transform building in city.transform)
             {
