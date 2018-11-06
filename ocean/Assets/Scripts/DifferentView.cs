@@ -5,22 +5,35 @@ using UnityEngine;
 
 public class DifferentView : MonoBehaviour
 {
+    public GameObject city;
 
-    public Animator CityLights;
-    
+    private Animator[] cityAnims;
+    //private  cityAnims;
+   // private MeshRenderer[] cityMesh;
 
     void Start()
     {
-
+       
+        //cityMesh = GetComponentsInChildren<MeshRenderer>();
     }
     
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag.Contains("Player"))
         {
-            CityLights.SetBool("TurnOnCity", true);
+            
+            
+            //var city = GameObject.FindGameObjectsWithTag("building");
+            foreach (Transform building in city.transform)
+            {
+                Animator buildAnim = building.gameObject.GetComponent<Animator>();
+               
+              // Destroy(buildAnim.gameObject);
+               if(!buildAnim.GetBool("TurnOnCity"))
+               {buildAnim.SetBool("TurnOnCity", true);}
+               
+            }
         }
-     
     }
 
 

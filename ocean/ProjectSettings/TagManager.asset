@@ -7,6 +7,7 @@ TagManager:
   - items
   - trash
   - Ground
+  - building
   layers:
   - Default
   - TransparentFX

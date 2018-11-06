@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/All of the trash.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/All of the trash.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CityLights.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/CityLights.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Material Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Material Palette.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LightitUP.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/LightitUP.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/energy.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/energy.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_23.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_23.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_9.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/trash/trashpile/_9.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,14 +63,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="6079" />
-          <entry key="txt" value="3502" />
+          <entry key="cs" value="7368" />
+          <entry key="txt" value="3581" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="6079" />
-          <entry key="PLAIN_TEXT" value="3502" />
+          <entry key="C#" value="7368" />
+          <entry key="PLAIN_TEXT" value="3581" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -62,13 +81,13 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="23" />
+          <entry key="cs" value="26" />
           <entry key="shader" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="23" />
+          <entry key="C#" value="26" />
           <entry key="ShaderLab" value="2" />
         </counts>
       </usages-collector>
@@ -145,48 +164,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-              <folding>
-                <marker date="1541397005543" expanded="false" signature="6:111" ph="..." />
-                <marker date="1541397005543" expanded="true" signature="165:3885" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="213:3883" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="538:612" ph="/* public GameObject pickupScriptHolder; ... */" />
-                <marker date="1541397005543" expanded="true" signature="839:873" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="938:1086" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="1160:2334" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="1220:2308" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="1715:2070" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="2091:2257" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="2381:2658" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="2451:2648" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="2698:2863" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="2906:3483" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="2963:3033" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="3080:3149" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="3184:3310" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="3350:3473" ph="{...}" />
-                <marker date="1541397005543" expanded="true" signature="3542:3876" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-370">
-              <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
+            <state relative-caret-position="-515">
               <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
               <folding>
                 <marker date="1541487017032" expanded="false" signature="6:170" ph="..." />
@@ -237,10 +217,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="80">
               <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
               <folding>
                 <marker date="1541492583199" expanded="true" signature="6:143" ph="..." />
@@ -255,6 +235,69 @@
                 <marker date="1541492583199" expanded="true" signature="1763:2083" ph="{...}" />
                 <marker date="1541492583199" expanded="true" signature="1771:1947" ph="/* RaycastHit lookAtTube = new RaycastHit(); ... */" />
                 <marker date="1541492583199" expanded="true" signature="1982:2072" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="70" column="78" selection-start-line="70" selection-start-column="78" selection-end-line="70" selection-end-column="78" />
+              <folding>
+                <marker date="1541454524364" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541454524364" expanded="true" signature="125:2473" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="190:245" ph="/* public float startZ = 0; ... */" />
+                <marker date="1541454524364" expanded="true" signature="440:1120" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="444:507" ph="/* after spawnTime, call MakeEnemy function ... */" />
+                <marker date="1541454524364" expanded="true" signature="653:986" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="698:898" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="936:982" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="1001:1108" ph="/* plane = GameObject.FindGameObjectWithTag(&quot;Ground&quot;).transform; ... */" />
+                <marker date="1541454524364" expanded="true" signature="1175:1182" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="1202:2469" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="1415:1452" ph="/* planeWorldPos; ... */" />
+                <marker date="1541454524364" expanded="true" signature="1545:1829" ph="/* next two lines commented out because it reaches all depth of children ... */" />
+                <marker date="1541454524364" expanded="true" signature="1890:2390" ph="{...}" />
+                <marker date="1541454524364" expanded="true" signature="2084:2305" ph="/* new Vector3(Random.Range(planePos.x- (planeScale.x/2), ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1541501379784" expanded="false" signature="6:131" ph="..." />
+                <marker date="1541501379784" expanded="true" signature="175:1003" ph="{...}" />
+                <marker date="1541501379784" expanded="true" signature="245:305" ph="/* private  cityAnims; ... */" />
+                <marker date="1541501379784" expanded="true" signature="323:405" ph="{...}" />
+                <marker date="1541501379784" expanded="true" signature="458:999" ph="{...}" />
+                <marker date="1541501379784" expanded="true" signature="517:993" ph="{...}" />
+                <marker date="1541501379784" expanded="true" signature="684:983" ph="{...}" />
+                <marker date="1541501379784" expanded="true" signature="897:953" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ending.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="38" column="74" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
+              <folding>
+                <marker date="1541498062157" expanded="true" signature="6:92" ph="..." />
+                <marker date="1541498062157" expanded="true" signature="129:1174" ph="{...}" />
+                <marker date="1541498062157" expanded="true" signature="306:401" ph="{...}" />
+                <marker date="1541498062157" expanded="true" signature="425:1001" ph="{...}" />
+                <marker date="1541498062157" expanded="true" signature="448:998" ph="{...}" />
+                <marker date="1541498062157" expanded="true" signature="1083:1172" ph="{...}" />
+                <marker date="1541498062157" expanded="true" signature="1131:1164" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -308,6 +351,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ending.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/playonce.cs" root0="FORCE_HIGHLIGHTING" />
@@ -334,10 +378,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/playonce.cs" />
         <option value="$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ending.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" />
       </list>
     </option>
   </component>
@@ -348,9 +393,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="732" />
+    <option name="x" value="56" />
+    <option name="y" value="118" />
+    <option name="width" value="1400" />
+    <option name="height" value="885" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -610,20 +656,6 @@
       <workItem from="1541364772987" duration="4940000" />
       <workItem from="1541442696729" duration="13473000" />
       <workItem from="1541471303142" duration="3428000" />
-    </task>
-    <task id="LOCAL-00022" summary="Added an electrical pole">
-      <created>1541082107757</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1541082107757</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Added a cave door.">
-      <created>1541083000840</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1541083000841</updated>
     </task>
     <task id="LOCAL-00024" summary="Added a cave door.">
       <created>1541087450240</created>
@@ -954,11 +986,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541492932747</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="removed some large trash">
+      <created>1541493454018</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1541493454018</updated>
+    </task>
+    <task id="LOCAL-00072" summary="sparks anim in place">
+      <created>1541493667941</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1541493667941</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86166000" />
+    <option name="totallyTimeSpent" value="94688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -970,11 +1016,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="45" y="95" width="1120" height="708" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47574627" visible="true" weight="0.19235925" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.5242537" side_tool="true" visible="true" weight="0.19235925" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47536945" visible="true" weight="0.2702448" />
+      <window_info id="Structure" order="1" sideWeight="0.52463055" side_tool="true" visible="true" weight="0.2702448" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -985,7 +1031,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.2397163" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.29391304" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -1036,8 +1082,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="I added more trash and added a major animation for all the trash in the water to bob. &#10;&#10;I moved the pipes so they don't block us. I changed the inside of the mountain and top slightly to hide the poles.&#10;&#10;*note animations that have an empty parent all need to individually be moved in the animator." />
-    <MESSAGE value="All trash bob fixed." />
     <MESSAGE value="I created a heck ton more colliders so troublemakers can't just run to the top." />
     <MESSAGE value="I added the toon yellow shader to all of the trash." />
     <MESSAGE value="slightly moved our container lower into the ground." />
@@ -1061,7 +1105,9 @@
     <MESSAGE value="I change the gate sounds!" />
     <MESSAGE value="I added MoOOoOre trash!" />
     <MESSAGE value="sparks on trigger" />
-    <option name="LAST_COMMIT_MESSAGE" value="sparks on trigger" />
+    <MESSAGE value="removed some large trash" />
+    <MESSAGE value="sparks anim in place" />
+    <option name="LAST_COMMIT_MESSAGE" value="sparks anim in place" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1108,6 +1154,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <marker date="1541286386294" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541286386294" expanded="true" signature="121:1180" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="440:507" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="526:844" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="903:1057" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="922:1010" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="1017:1054" ph="{...}" />
+            <marker date="1541286386294" expanded="true" signature="1072:1178" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Shader/pb_StandardVertexColor.shader" />
+    <entry file="file://$PROJECT_DIR$/../../../../codeLab0/CodeLab0-Week5-GitDemo/Assets/Scripts/MoveCube.cs" />
+    <entry file="file://$PROJECT_DIR$/../../../../codeLab0/CodeLab0-Week5-GitDemo/Assets/lerpScript.cs" />
+    <entry file="file://$PROJECT_DIR$/../../../../codeLab0/CodeLab0Walker2018/Assets/Scripts/Caster.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OpenGate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1541485263916" expanded="false" signature="6:123" ph="..." />
+            <marker date="1541485263916" expanded="true" signature="162:1055" ph="{...}" />
+            <marker date="1541485263916" expanded="true" signature="352:505" ph="{...}" />
+            <marker date="1541485263916" expanded="true" signature="559:1051" ph="{...}" />
+            <marker date="1541485263916" expanded="true" signature="699:774" ph="{...}" />
+            <marker date="1541485263916" expanded="true" signature="804:1048" ph="{...}" />
+            <marker date="1541485263916" expanded="true" signature="984:1044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1136,64 +1239,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-          <folding>
-            <marker date="1541286386294" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541286386294" expanded="true" signature="121:1180" ph="{...}" />
-            <marker date="1541286386294" expanded="true" signature="440:507" ph="{...}" />
-            <marker date="1541286386294" expanded="true" signature="526:844" ph="{...}" />
-            <marker date="1541286386294" expanded="true" signature="903:1057" ph="{...}" />
-            <marker date="1541286386294" expanded="true" signature="922:1010" ph="{...}" />
-            <marker date="1541286386294" expanded="true" signature="1017:1054" ph="{...}" />
-            <marker date="1541286386294" expanded="true" signature="1072:1178" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1568">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Shader/pb_StandardVertexColor.shader" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../codeLab0/CodeLab0-Week5-GitDemo/Assets/Scripts/MoveCube.cs" />
-    <entry file="file://$PROJECT_DIR$/../../../../codeLab0/CodeLab0-Week5-GitDemo/Assets/lerpScript.cs" />
-    <entry file="file://D:/dirtscraper Unity/SampleLevel (1)/Assets/Script/moveObject1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370">
-          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../codeLab0/CodeLab0Walker2018/Assets/Scripts/Caster.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
+        <state relative-caret-position="-515">
           <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
           <folding>
             <marker date="1541487017032" expanded="false" signature="6:170" ph="..." />
@@ -1225,25 +1273,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OpenGate.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ending.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="38" column="74" selection-start-line="38" selection-start-column="74" selection-end-line="38" selection-end-column="74" />
           <folding>
-            <marker date="1541485263916" expanded="false" signature="6:123" ph="..." />
-            <marker date="1541485263916" expanded="true" signature="162:1055" ph="{...}" />
-            <marker date="1541485263916" expanded="true" signature="352:505" ph="{...}" />
-            <marker date="1541485263916" expanded="true" signature="559:1051" ph="{...}" />
-            <marker date="1541485263916" expanded="true" signature="699:774" ph="{...}" />
-            <marker date="1541485263916" expanded="true" signature="804:1048" ph="{...}" />
-            <marker date="1541485263916" expanded="true" signature="984:1044" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="6:92" ph="..." />
+            <marker date="1541498062157" expanded="true" signature="129:1174" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="306:401" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="425:1001" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="448:998" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="1083:1172" ph="{...}" />
+            <marker date="1541498062157" expanded="true" signature="1131:1164" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="80">
           <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
           <folding>
             <marker date="1541492583199" expanded="true" signature="6:143" ph="..." />
@@ -1258,6 +1306,47 @@
             <marker date="1541492583199" expanded="true" signature="1763:2083" ph="{...}" />
             <marker date="1541492583199" expanded="true" signature="1771:1947" ph="/* RaycastHit lookAtTube = new RaycastHit(); ... */" />
             <marker date="1541492583199" expanded="true" signature="1982:2072" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="70" column="78" selection-start-line="70" selection-start-column="78" selection-end-line="70" selection-end-column="78" />
+          <folding>
+            <marker date="1541454524364" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541454524364" expanded="true" signature="125:2473" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="190:245" ph="/* public float startZ = 0; ... */" />
+            <marker date="1541454524364" expanded="true" signature="440:1120" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="444:507" ph="/* after spawnTime, call MakeEnemy function ... */" />
+            <marker date="1541454524364" expanded="true" signature="653:986" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="698:898" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="936:982" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="1001:1108" ph="/* plane = GameObject.FindGameObjectWithTag(&quot;Ground&quot;).transform; ... */" />
+            <marker date="1541454524364" expanded="true" signature="1175:1182" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="1202:2469" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="1415:1452" ph="/* planeWorldPos; ... */" />
+            <marker date="1541454524364" expanded="true" signature="1545:1829" ph="/* next two lines commented out because it reaches all depth of children ... */" />
+            <marker date="1541454524364" expanded="true" signature="1890:2390" ph="{...}" />
+            <marker date="1541454524364" expanded="true" signature="2084:2305" ph="/* new Vector3(Random.Range(planePos.x- (planeScale.x/2), ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1541501379784" expanded="false" signature="6:131" ph="..." />
+            <marker date="1541501379784" expanded="true" signature="175:1003" ph="{...}" />
+            <marker date="1541501379784" expanded="true" signature="245:305" ph="/* private  cityAnims; ... */" />
+            <marker date="1541501379784" expanded="true" signature="323:405" ph="{...}" />
+            <marker date="1541501379784" expanded="true" signature="458:999" ph="{...}" />
+            <marker date="1541501379784" expanded="true" signature="517:993" ph="{...}" />
+            <marker date="1541501379784" expanded="true" signature="684:983" ph="{...}" />
+            <marker date="1541501379784" expanded="true" signature="897:953" ph="{...}" />
           </folding>
         </state>
       </provider>
