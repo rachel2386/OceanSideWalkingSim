@@ -30,7 +30,7 @@ public class OpenGate : MonoBehaviour
 		Debug.Log("itemsNum = " + itemsWTag.Length );
 		if (itemsWTag.Length > 0)
 		{
-			CollectNum.text = "COLLECTIBLE REMAINING " + itemsWTag.Length;
+			CollectNum.text = "COLLECTIBLE REMAINING: " + itemsWTag.Length;
 		}
 
 		if (itemsWTag.Length <= 0)
