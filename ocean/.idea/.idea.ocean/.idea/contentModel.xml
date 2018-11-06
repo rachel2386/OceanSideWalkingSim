@@ -31,6 +31,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="DifferentView.cs" t="Include" />
           <e p="OpenGate.cs" t="Include" />
           <e p="pickupItem.cs" t="Include" />
           <e p="playonce.cs" t="Include" />
