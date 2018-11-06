@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,7 +114,7 @@
     <session id="395644643">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -122,13 +125,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="408" />
-          <entry key="txt" value="823" />
+          <entry key="txt" value="848" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="408" />
-          <entry key="PLAIN_TEXT" value="823" />
+          <entry key="PLAIN_TEXT" value="848" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -608,7 +611,18 @@
       <workItem from="1541280763916" duration="92000" />
       <workItem from="1541364772987" duration="4940000" />
       <workItem from="1541442696729" duration="13473000" />
+<<<<<<< Updated upstream
       <workItem from="1541471303142" duration="3428000" />
+=======
+      <workItem from="1541471303142" duration="3652000" />
+    </task>
+    <task id="LOCAL-00015" summary="fixed the pickup script so player can only pickup when colliding with items">
+      <created>1540475735243</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540475735243</updated>
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00016" summary="fixed the pickup script so player can inspect the item when dragging mouse&#10;&#10;fixed the pickup script so when item is dropped off the scale remains the same. &#10;&#10;unparented seaturtle from mapSmall">
       <created>1540566370054</created>
@@ -939,6 +953,7 @@
       <option name="project" value="LOCAL" />
       <updated>1541472345946</updated>
     </task>
+<<<<<<< Updated upstream
     <task id="LOCAL-00063" summary="footstep sound &#10;pickup control &#10;volume for fizzling&#10;adjust ui size to 1920 1810">
       <created>1541476550867</created>
       <option name="number" value="00063" />
@@ -958,6 +973,20 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="74293000" />
+=======
+    <task id="LOCAL-00063" summary="City lights trigger.">
+      <created>1541475138451</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1541475138451</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72314000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1035,6 +1064,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
+<<<<<<< Updated upstream
+=======
+    <MESSAGE value="added generator to scene &#10;&#10;added ramp to cave &#10;&#10;added metal material &amp; texture&#10;&#10;removed lux water" />
+>>>>>>> Stashed changes
     <MESSAGE value="cleaned up path to prevent player from dropping down the side &#10;&#10;change the angle of beams  were too easy to stuck between beams" />
     <MESSAGE value="added 2 security gates and tweaked shape of mesh to fit &#10;&#10;tweaked collider of stairs and ramps" />
     <MESSAGE value="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map" />
@@ -1058,9 +1091,14 @@
     <MESSAGE value="added tubes for trash receiver and generator" />
     <MESSAGE value="Added an emission animation to the buildings." />
     <MESSAGE value="Added more sounds." />
+<<<<<<< Updated upstream
     <MESSAGE value="footstep sound &#10;pickup control &#10;volume for fizzling&#10;adjust ui size to 1920 1810" />
     <MESSAGE value="muted material colors" />
     <option name="LAST_COMMIT_MESSAGE" value="muted material colors" />
+=======
+    <MESSAGE value="City lights trigger." />
+    <option name="LAST_COMMIT_MESSAGE" value="City lights trigger." />
+>>>>>>> Stashed changes
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
