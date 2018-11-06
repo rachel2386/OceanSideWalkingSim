@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="" />
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,13 +120,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="408" />
-          <entry key="txt" value="848" />
+          <entry key="txt" value="869" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="408" />
-          <entry key="PLAIN_TEXT" value="848" />
+          <entry key="PLAIN_TEXT" value="869" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -1180,13 +1183,6 @@
       <workItem from="1541442696729" duration="13473000" />
       <workItem from="1541471303142" duration="3428000" />
     </task>
-    <task id="LOCAL-00019" summary="added thermal view script. removed flashlight.">
-      <created>1540662704161</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1540662704161</updated>
-    </task>
     <task id="LOCAL-00020" summary="added thermal view script. removed flashlight.">
       <created>1540662730399</created>
       <option name="number" value="00020" />
@@ -1523,11 +1519,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541489261557</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="I added MoOOoOre trash!">
+      <created>1541489832687</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1541489832687</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83584000" />
+    <option name="totallyTimeSpent" value="84819000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1540,10 +1543,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45920745" visible="true" weight="0.32471728" />
-      <window_info id="Structure" order="1" sideWeight="0.5407925" side_tool="true" visible="true" weight="0.32471728" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5407925" side_tool="true" visible="true" weight="0.32471728" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -1554,7 +1556,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4966488" visible="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49865952" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -1605,7 +1607,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map" />
     <MESSAGE value="I added the animation, trash bob for the trash to &quot;float&quot; in the water." />
     <MESSAGE value="I added more trash and added a major animation for all the trash in the water to bob. &#10;&#10;I moved the pipes so they don't block us. I changed the inside of the mountain and top slightly to hide the poles.&#10;&#10;*note animations that have an empty parent all need to individually be moved in the animator." />
     <MESSAGE value="All trash bob fixed." />
@@ -1630,7 +1631,8 @@
     <MESSAGE value="muted material colors" />
     <MESSAGE value="change camera to physical 70mm imax&#10;&#10;added gate open sound and trashCollect sound on trigger" />
     <MESSAGE value="I change the gate sounds!" />
-    <option name="LAST_COMMIT_MESSAGE" value="I change the gate sounds!" />
+    <MESSAGE value="I added MoOOoOre trash!" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added MoOOoOre trash!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
