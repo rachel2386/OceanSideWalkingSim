@@ -57,7 +57,7 @@ public class PickupItem : MonoBehaviour
 		if (pickedup)
 		{
 			
-			if (Input.GetMouseButtonDown(0))
+			if (Input.GetMouseButtonUp(0))
 			{
 				Debug.Log("Collided with" + gameObject.name);
 				pickup();
@@ -69,7 +69,7 @@ public class PickupItem : MonoBehaviour
 		
 		if(mousePressed)
 		{
-			if (Input.GetMouseButtonUp(0))
+			if (Input.GetMouseButtonUp(1))
 			{
 					
 				onDestroy();

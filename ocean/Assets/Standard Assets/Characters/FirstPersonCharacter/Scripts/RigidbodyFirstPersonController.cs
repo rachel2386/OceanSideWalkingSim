@@ -129,7 +129,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private void Update()
         {
             RotateView();
-
+            playFootStep();
             if (CrossPlatformInputManager.GetButtonDown("Jump") && !m_Jump)
             {
                 m_Jump = true;
@@ -221,7 +221,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             return input;
         }
 
-
+        
         private void RotateView()
         {
             //avoids the mouse looking if the game is effectively paused
@@ -260,6 +260,22 @@ namespace UnityStandardAssets.Characters.FirstPerson
             {
                 m_Jumping = false;
             }
+        }
+
+        void playFootStep()
+        {
+            
+                AudioSource footsteps = GetComponent<AudioSource>();
+                if (m_IsGrounded && m_RigidBody.velocity.magnitude > 1 && !footsteps.isPlaying)
+                {
+                    footsteps.Play();
+                    footsteps.volume =UnityEngine.Random.Range(0.4f,0.6f);
+                    footsteps.pitch = UnityEngine.Random.Range(0.8f,1.1f);
+                }
+               
+            
+           
+
         }
     }
 }
