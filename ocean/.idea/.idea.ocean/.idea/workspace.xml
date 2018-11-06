@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,23 +119,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="cs" value="408" />
           <entry key="txt" value="823" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="C#" value="408" />
           <entry key="PLAIN_TEXT" value="823" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.vcs.git.usages" />
-      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Unity/cache/packages/packages.unity.com/com.unity.probuilder@3.0.9/ProBuilder/Shader/pb_StandardVertexColor.shader">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -145,6 +155,22 @@
                 <marker date="1527704437000" expanded="true" signature="56:233" ph="{...}" />
                 <marker date="1527704437000" expanded="true" signature="245:1418" ph="{...}" />
                 <marker date="1527704437000" expanded="true" signature="302:1410" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <marker date="1541474680000" expanded="false" signature="6:131" ph="..." />
+                <marker date="1541474680000" expanded="true" signature="175:446" ph="{...}" />
+                <marker date="1541474680000" expanded="true" signature="233:246" ph="{...}" />
+                <marker date="1541474680000" expanded="true" signature="299:442" ph="{...}" />
+                <marker date="1541474680000" expanded="true" signature="358:430" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -175,6 +201,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Shader/Thermal Vision.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Thermal Vision/Script/CameraEffect.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -192,6 +219,7 @@
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" />
       </list>
     </option>
   </component>
@@ -292,21 +320,7 @@
       <workItem from="1541280763916" duration="92000" />
       <workItem from="1541364772987" duration="4940000" />
       <workItem from="1541442696729" duration="13473000" />
-      <workItem from="1541471303142" duration="494000" />
-    </task>
-    <task id="LOCAL-00012" summary="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup">
-      <created>1540266916864</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1540266916864</updated>
-    </task>
-    <task id="LOCAL-00013" summary="changed stairs to slope on tier 2 &#10;&#10;changed player starting pos setup">
-      <created>1540267432597</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1540267432597</updated>
+      <workItem from="1541471303142" duration="3428000" />
     </task>
     <task id="LOCAL-00014" summary="imported pickup item script&#10;&#10;added objectHolder under rigidbody Controller&#10;&#10;added tag &quot;items&quot;">
       <created>1540279711895</created>
@@ -637,11 +651,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541471269418</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Added more sounds.">
+      <created>1541471805119</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1541471805119</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Added more sounds.">
+      <created>1541472345946</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1541472345946</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69156000" />
+    <option name="totallyTimeSpent" value="72090000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -653,7 +681,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="732" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46153846" visible="true" weight="0.31987077" />
@@ -843,6 +871,20 @@
             <marker date="1527704437000" expanded="true" signature="56:233" ph="{...}" />
             <marker date="1527704437000" expanded="true" signature="245:1418" ph="{...}" />
             <marker date="1527704437000" expanded="true" signature="302:1410" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DifferentView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <marker date="1541474680000" expanded="false" signature="6:131" ph="..." />
+            <marker date="1541474680000" expanded="true" signature="175:446" ph="{...}" />
+            <marker date="1541474680000" expanded="true" signature="233:246" ph="{...}" />
+            <marker date="1541474680000" expanded="true" signature="299:442" ph="{...}" />
+            <marker date="1541474680000" expanded="true" signature="358:430" ph="{...}" />
           </folding>
         </state>
       </provider>
