@@ -3,19 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CollectTrash.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CollectTrash.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/CollectTrash.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/CollectTrash.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/disposeTrash.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/disposeTrash.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/disposeTrash.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/disposeTrash.anim.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/trashCan.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/trashCan.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/PlayerBox/New Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/mapSmall.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/pipeElbow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/pipeElbow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/ElectricalSpark_1 (1).controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/ElectricalSpark_1 (1).controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/ElectricalSpark_1.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/ElectricalSpark_1.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/electrical_spark.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/electrical_spark.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/its_electric_1.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/its_electric_1.anim" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/PickupItem.cs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,14 +51,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="5991" />
-          <entry key="txt" value="3483" />
+          <entry key="cs" value="6104" />
+          <entry key="txt" value="3604" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="5991" />
-          <entry key="PLAIN_TEXT" value="3483" />
+          <entry key="C#" value="6104" />
+          <entry key="PLAIN_TEXT" value="3604" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -253,21 +247,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="288">
+              <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
               <folding>
-                <marker date="1541488170221" expanded="true" signature="6:143" ph="..." />
-                <marker date="1541488170221" expanded="true" signature="186:1762" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="468:785" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="809:1257" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="831:1254" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="894:948" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="1012:1111" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="1131:1245" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="1338:1760" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="1386:1757" ph="{...}" />
-                <marker date="1541488170221" expanded="true" signature="1394:1570" ph="/* RaycastHit lookAtTube = new RaycastHit(); ... */" />
-                <marker date="1541488170221" expanded="true" signature="1605:1746" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="6:143" ph="..." />
+                <marker date="1541490661354" expanded="true" signature="186:2411" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="587:1209" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="1233:1950" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="1255:1947" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="1318:1372" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="1436:1749" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="1769:1938" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="2031:2409" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="2079:2406" ph="{...}" />
+                <marker date="1541490661354" expanded="true" signature="2087:2263" ph="/* RaycastHit lookAtTube = new RaycastHit(); ... */" />
+                <marker date="1541490661354" expanded="true" signature="2298:2395" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -576,13 +570,6 @@
       <workItem from="1541364772987" duration="4940000" />
       <workItem from="1541442696729" duration="13473000" />
       <workItem from="1541471303142" duration="3428000" />
-    </task>
-    <task id="LOCAL-00018" summary="Added wireframe shader and added them onto materials.">
-      <created>1540660240941</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1540660240941</updated>
     </task>
     <task id="LOCAL-00019" summary="added thermal view script. removed flashlight.">
       <created>1540662704161</created>
@@ -920,11 +907,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541481886898</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="animation and sound effects for trashDisposal &amp; openGate &#10;&#10;instruction text on UI">
+      <created>1541488417286</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1541488417286</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83046000" />
+    <option name="totallyTimeSpent" value="85025000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -936,7 +930,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47574627" visible="true" weight="0.19235925" />
@@ -1002,7 +996,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="added 2 security gates and tweaked shape of mesh to fit &#10;&#10;tweaked collider of stairs and ramps" />
     <MESSAGE value="added trash can &#10;&#10;elevated cabin &#10;&#10;tweaked colliders on map" />
     <MESSAGE value="I added the animation, trash bob for the trash to &quot;float&quot; in the water." />
     <MESSAGE value="I added more trash and added a major animation for all the trash in the water to bob. &#10;&#10;I moved the pipes so they don't block us. I changed the inside of the mountain and top slightly to hide the poles.&#10;&#10;*note animations that have an empty parent all need to individually be moved in the animator." />
@@ -1027,7 +1020,8 @@
     <MESSAGE value="footstep sound &#10;pickup control &#10;volume for fizzling&#10;adjust ui size to 1920 1810" />
     <MESSAGE value="muted material colors" />
     <MESSAGE value="change camera to physical 70mm imax&#10;&#10;added gate open sound and trashCollect sound on trigger" />
-    <option name="LAST_COMMIT_MESSAGE" value="change camera to physical 70mm imax&#10;&#10;added gate open sound and trashCollect sound on trigger" />
+    <MESSAGE value="animation and sound effects for trashDisposal &amp; openGate &#10;&#10;instruction text on UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="animation and sound effects for trashDisposal &amp; openGate &#10;&#10;instruction text on UI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1281,21 +1275,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="288">
+          <caret line="54" column="55" selection-start-line="54" selection-start-column="55" selection-end-line="54" selection-end-column="55" />
           <folding>
-            <marker date="1541488170221" expanded="true" signature="6:143" ph="..." />
-            <marker date="1541488170221" expanded="true" signature="186:1762" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="468:785" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="809:1257" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="831:1254" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="894:948" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="1012:1111" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="1131:1245" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="1338:1760" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="1386:1757" ph="{...}" />
-            <marker date="1541488170221" expanded="true" signature="1394:1570" ph="/* RaycastHit lookAtTube = new RaycastHit(); ... */" />
-            <marker date="1541488170221" expanded="true" signature="1605:1746" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="6:143" ph="..." />
+            <marker date="1541490661354" expanded="true" signature="186:2411" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="587:1209" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="1233:1950" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="1255:1947" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="1318:1372" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="1436:1749" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="1769:1938" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="2031:2409" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="2079:2406" ph="{...}" />
+            <marker date="1541490661354" expanded="true" signature="2087:2263" ph="/* RaycastHit lookAtTube = new RaycastHit(); ... */" />
+            <marker date="1541490661354" expanded="true" signature="2298:2395" ph="{...}" />
           </folding>
         </state>
       </provider>
