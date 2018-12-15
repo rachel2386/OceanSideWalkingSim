@@ -20,7 +20,7 @@ public class playonce : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		Debug.Log("hasPlayed" + hasPlayed);
+		//Debug.Log("hasPlayed" + hasPlayed);
 	}
 
 	void OnTriggerEnter(Collider other)
@@ -28,7 +28,7 @@ public class playonce : MonoBehaviour
 			if (!hasPlayed)
 			{
 				myAS.PlayOneShot(myAudio);
-				Debug.Log(other.gameObject.name);
+				//Debug.Log(other.gameObject.name);
 				hasPlayed = true;
 				
 			}

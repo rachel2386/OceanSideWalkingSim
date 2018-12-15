@@ -61,7 +61,7 @@ public class randomPlacement : MonoBehaviour {
 	{
 		Vector3 planePos = ColCenter;//planeTransform.position;
 		Vector3 planeScale = planeTransform.bounds.size;
-		Debug.Log("VplanePos" + planePos);
+		//Debug.Log("VplanePos" + planePos);
 		var trashNum = GameObject.FindGameObjectsWithTag("trash");
 		//planeWorldPos;
 		//int maxNum = 50;

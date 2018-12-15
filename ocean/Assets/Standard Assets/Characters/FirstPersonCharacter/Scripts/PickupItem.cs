@@ -53,7 +53,7 @@ public class PickupItem : MonoBehaviour
 	// Update is called once per frame
 	void Update () {
 
-		Debug.Log("pickedup=" + pickedup);
+		//Debug.Log("pickedup=" + pickedup);
 		
 		
 		
@@ -63,7 +63,7 @@ public class PickupItem : MonoBehaviour
 			
 			if (Input.GetMouseButtonUp(0))
 			{
-				Debug.Log("Collided with" + gameObject.name);
+				//Debug.Log("Collided with" + gameObject.name);
 				pickup();
 				mousePressed = true;
 

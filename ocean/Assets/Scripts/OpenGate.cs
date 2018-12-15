@@ -27,7 +27,7 @@ public class OpenGate : MonoBehaviour
 	{
 		
 		itemsWTag = GameObject.FindGameObjectsWithTag("items");
-		Debug.Log("itemsNum = " + itemsWTag.Length );
+		//Debug.Log("itemsNum = " + itemsWTag.Length );
 		if (itemsWTag.Length > 0)
 		{
 			CollectNum.text = "COLLECTIBLE REMAINING: " + itemsWTag.Length;

@@ -38,6 +38,7 @@
           <e p="pickupItem.cs" t="Include" />
           <e p="playonce.cs" t="Include" />
           <e p="randomPlacement.cs" t="Include" />
+          <e p="RestartGame.cs" t="Include" />
         </e>
         <e p="Standard Assets" t="Include">
           <e p="Characters" t="Include">
