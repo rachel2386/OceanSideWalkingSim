@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="enabled gpu instancing for floating trash materials &#10;checked falling trash as static&#10;change UI text corresponding to different states&#10;added fade to black animation">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/black.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/black.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/blackAnim.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/blackAnim.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/ProBuilderPreferences.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/oceanSide.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Ending.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Ending.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RestartGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RestartGame.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,14 +45,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="10051" />
-          <entry key="txt" value="3904" />
+          <entry key="cs" value="10053" />
+          <entry key="txt" value="4133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="10051" />
-          <entry key="PLAIN_TEXT" value="3904" />
+          <entry key="C#" value="10053" />
+          <entry key="PLAIN_TEXT" value="4133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -157,10 +145,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="224">
               <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
               <folding>
                 <marker date="1545023728875" expanded="false" signature="6:136" ph="..." />
@@ -201,24 +189,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RestartGame.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+            <state relative-caret-position="672">
+              <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
               <folding>
-                <marker date="1545020586340" expanded="false" signature="6:113" ph="..." />
-                <marker date="1545020586340" expanded="true" signature="155:1135" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="341:525" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="577:1133" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="616:865" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="654:739" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="758:861" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="812:856" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="902:1130" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="936:977" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="1008:1126" ph="{...}" />
-                <marker date="1545020586340" expanded="true" signature="1067:1111" ph="{...}" />
+                <marker date="1545025268200" expanded="false" signature="6:113" ph="..." />
+                <marker date="1545025268200" expanded="true" signature="155:1199" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="341:525" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="577:1197" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="616:865" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="654:739" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="758:861" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="812:856" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="902:1130" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="936:977" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="1008:1126" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="1067:1111" ph="{...}" />
+                <marker date="1545025268200" expanded="true" signature="1163:1194" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -376,11 +365,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/randomPlacement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/pickupItem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/saveYourself.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/RestartGame.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OpenGate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DifferentView.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ending.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RestartGame.cs" />
       </list>
     </option>
   </component>
@@ -485,14 +474,7 @@
       <workItem from="1541471303142" duration="3428000" />
       <workItem from="1544737934748" duration="697000" />
       <workItem from="1544844071457" duration="1286000" />
-      <workItem from="1545002057617" duration="16173000" />
-    </task>
-    <task id="LOCAL-00029" summary="Added a mixer.">
-      <created>1541280740819</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1541280740819</updated>
+      <workItem from="1545002057617" duration="17150000" />
     </task>
     <task id="LOCAL-00030" summary="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane">
       <created>1541285200480</created>
@@ -830,11 +812,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545010275106</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="added Menu Scene and esc to exit game&#10;fixed collider problem by changing shell offset of Rigidbody controller to 0.1 and Ground check to 0.15&#10;removed colliders &#10;added audio in cave">
+      <created>1545025524996</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1545025524996</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116429000" />
+    <option name="totallyTimeSpent" value="117406000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -846,7 +835,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47014925" visible="true" weight="0.20040214" />
@@ -912,7 +901,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="replaced trashcan with plastic opaque one &#10;&#10;moved animation and animators into animation folder" />
     <MESSAGE value="trashCan Animation" />
     <MESSAGE value="trashcan animation plays when item destroyed." />
     <MESSAGE value="gateAnimation and new gate script" />
@@ -937,7 +925,8 @@
     <MESSAGE value="FINAL!" />
     <MESSAGE value="loadScene Script&#10;Optimized //debug.log" />
     <MESSAGE value="enabled gpu instancing for floating trash materials &#10;checked falling trash as static&#10;change UI text corresponding to different states&#10;added fade to black animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="enabled gpu instancing for floating trash materials &#10;checked falling trash as static&#10;change UI text corresponding to different states&#10;added fade to black animation" />
+    <MESSAGE value="added Menu Scene and esc to exit game&#10;fixed collider problem by changing shell offset of Rigidbody controller to 0.1 and Ground check to 0.15&#10;removed colliders &#10;added audio in cave" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Menu Scene and esc to exit game&#10;fixed collider problem by changing shell offset of Rigidbody controller to 0.1 and Ground check to 0.15&#10;removed colliders &#10;added audio in cave" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1260,30 +1249,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RestartGame.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
-          <folding>
-            <marker date="1545020586340" expanded="false" signature="6:113" ph="..." />
-            <marker date="1545020586340" expanded="true" signature="155:1135" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="341:525" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="577:1133" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="616:865" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="654:739" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="758:861" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="812:856" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="902:1130" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="936:977" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="1008:1126" ph="{...}" />
-            <marker date="1545020586340" expanded="true" signature="1067:1111" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/disposeTrash.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="224">
           <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
           <folding>
             <marker date="1545023728875" expanded="false" signature="6:136" ph="..." />
@@ -1300,6 +1268,28 @@
             <marker date="1545023728875" expanded="true" signature="2156:2476" ph="{...}" />
             <marker date="1545023728875" expanded="true" signature="2164:2340" ph="/* RaycastHit lookAtTube = new RaycastHit(); ... */" />
             <marker date="1545023728875" expanded="true" signature="2375:2465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RestartGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding>
+            <marker date="1545025268200" expanded="false" signature="6:113" ph="..." />
+            <marker date="1545025268200" expanded="true" signature="155:1199" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="341:525" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="577:1197" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="616:865" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="654:739" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="758:861" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="812:856" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="902:1130" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="936:977" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="1008:1126" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="1067:1111" ph="{...}" />
+            <marker date="1545025268200" expanded="true" signature="1163:1194" ph="{...}" />
           </folding>
         </state>
       </provider>
