@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 
 using UnityEngine;
+using UnityEngine.UI;
 using UnityStandardAssets.Utility;
 
 public class disposeTrash : MonoBehaviour
@@ -16,6 +17,8 @@ public class disposeTrash : MonoBehaviour
 	private AudioSource BGAudio;
 	private bool bgPlayed = false;
 	bool dumped =false;
+	private AudioSource myaudio;
+	private Text guideText;
 
 	private bool generatorOn = false;
 	float timer =5f;
@@ -28,6 +31,8 @@ public class disposeTrash : MonoBehaviour
 	BGAudio = GameObject.Find("BackGate").GetComponent<AudioSource>();
 		var tSounds = GameObject.Find("TrashCan").GetComponents<AudioSource>();
 		disposeSound = tSounds[1];
+		myaudio = GetComponent<AudioSource>();
+		guideText = GameObject.Find("Text").GetComponent<Text>();
 	}
 
 	private void Update()
@@ -45,10 +50,11 @@ public class disposeTrash : MonoBehaviour
 			if (timer <= 3)
 			{
 				
-				if (!GetComponent<AudioSource>().isPlaying)
-					GetComponent<AudioSource>().Play();
+				if (!myaudio.isPlaying)
+					myaudio.Play();
 				sparkAnim.gameObject.SetActive(true);
 				sparkAnim.SetBool("generatorOn",true);
+				guideText.text = "CONVERTING ENERGY...";
 				
 				
 				//sparkAnim playing
@@ -63,6 +69,7 @@ public class disposeTrash : MonoBehaviour
 					BGAudio.Play();
 					backGateAnim.SetBool("trashDisposed", true);
 					bgPlayed = true;
+					guideText.text = "REGENERATING ELECTRIC POWER...";
 				
 
 			}

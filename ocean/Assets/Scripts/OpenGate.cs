@@ -30,13 +30,13 @@ public class OpenGate : MonoBehaviour
 		//Debug.Log("itemsNum = " + itemsWTag.Length );
 		if (itemsWTag.Length > 0)
 		{
-			CollectNum.text = "COLLECTIBLE REMAINING: " + itemsWTag.Length;
+			CollectNum.text = "COLLECTIBLE REMAINING: " + itemsWTag.Length + "/2000000000";
 		}
 
 		if (itemsWTag.Length <= 0)
 		{
 			
-			CollectNum.text = "COLLECTIBLE REMAINING : 0" ;
+			CollectNum.text = "ENGINE ROOM ACTIVATED" ;
 			CollectNum.color = Color.yellow;
 			myAnim.SetBool("OpenGate",true);
 			if (!gateOpenSound.isPlaying && !soundPlayed)

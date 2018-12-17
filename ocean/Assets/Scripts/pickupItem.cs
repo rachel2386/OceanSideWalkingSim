@@ -39,7 +39,7 @@ public class pickupItem : MonoBehaviour
 		{
 			if (Input.GetMouseButtonDown(0))
 			{
-				Debug.Log("Collided with" + item.name);
+				//Debug.Log("Collided with" + item.name);
 				pickup();
 			}
 				
