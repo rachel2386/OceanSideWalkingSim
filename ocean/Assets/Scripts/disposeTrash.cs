@@ -21,6 +21,7 @@ public class disposeTrash : MonoBehaviour
 	private Text guideText;
 
 	private bool generatorOn = false;
+	private bool shownText=false;
 	float timer =5f;
 	// Use this for initialization
 	void Start ()
@@ -47,7 +48,7 @@ public class disposeTrash : MonoBehaviour
 			if(timer>0)
 				timer -= Time.deltaTime;
 
-			if (timer <= 3)
+			if (timer <= 3 && timer > 1)
 			{
 				
 				if (!myaudio.isPlaying)
@@ -61,15 +62,23 @@ public class disposeTrash : MonoBehaviour
 				
 			}
 
-			if (timer <= 1)
+			if (timer <= 1.5 && timer > 0)
+			{
+				guideText.text = "GENERATING ELECTRIC POWER... ";
+			}
+
+			if(timer<=0)
 			{
 				timer = 0;
-				
 				if(!BGAudio.isPlaying && !bgPlayed)
 					BGAudio.Play();
 					backGateAnim.SetBool("trashDisposed", true);
 					bgPlayed = true;
-					guideText.text = "REGENERATING ELECTRIC POWER...";
+				if (!shownText)
+				{
+					guideText.text = "PROCEED TO POWER STATION";
+					shownText= true;
+				}
 				
 
 			}

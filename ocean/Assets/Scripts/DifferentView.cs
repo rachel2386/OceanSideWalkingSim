@@ -14,6 +14,8 @@ public class DifferentView : MonoBehaviour
     private Text guideText;
 
     private bool changeText = false;
+
+    private bool shownText = false;
     //private  cityAnims;
    // private MeshRenderer[] cityMesh;
 
@@ -23,16 +25,22 @@ public class DifferentView : MonoBehaviour
         guideText = GameObject.Find("Text").GetComponent<Text>();
         //cityMesh = GetComponentsInChildren<MeshRenderer>();
     }
-    
+
+    private void Update()
+    {
+        if (changeText && !shownText)
+        {
+            guideText.text = "POWER RESTORED";
+            shownText = true;
+        }
+    }
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag.Contains("Player"))
         {
             changeText = true;
-            if (changeText)
-            {
-                guideText.text = "POWER RESTORED";
-            }
+            
 
             RenderSettings.fog = false;
             //var city = GameObject.FindGameObjectsWithTag("building");

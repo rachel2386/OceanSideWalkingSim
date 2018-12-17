@@ -20,6 +20,7 @@ public class Ending : MonoBehaviour
 	//public GameObject reticle;
 	
 	public Text guideText;
+	public bool GameEnded = false;
 	 
 	
 	// Use this for initialization
@@ -31,6 +32,7 @@ public class Ending : MonoBehaviour
 		guideText = GameObject.Find("Text").GetComponent<Text>();
 		
 		blackAnim = GameObject.Find("black").GetComponent<Animator>();
+		blackAnim.SetBool("ended",false);
 	}
 
 	private void Update()
@@ -52,6 +54,8 @@ public class Ending : MonoBehaviour
 			if (timer >= TotTime)
 			{
 				timer = TotTime;
+				GameEnded = true;
+				//Debug.Log("GameEnded="+GameEnded);
 				//float alpha= Mathf.Lerp(0,1,blackTimer/3f);
 				//var blackImgColor = blackImg.color;
 				//blackTimer+= Time.deltaTime;

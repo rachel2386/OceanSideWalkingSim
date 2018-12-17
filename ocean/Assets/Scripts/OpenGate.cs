@@ -11,6 +11,7 @@ public class OpenGate : MonoBehaviour
 	private Text CollectNum;
 	private AudioSource gateOpenSound;
 	bool soundPlayed = false;
+	private bool shownText = false;
 
 	// Use this for initialization
 	void Start ()
@@ -35,9 +36,14 @@ public class OpenGate : MonoBehaviour
 
 		if (itemsWTag.Length <= 0)
 		{
+
+			if (!shownText)
+			{
+				CollectNum.text = "ENGINE ROOM ACTIVATED" ;
+				CollectNum.color = Color.yellow;
+				shownText = true;
+			}
 			
-			CollectNum.text = "ENGINE ROOM ACTIVATED" ;
-			CollectNum.color = Color.yellow;
 			myAnim.SetBool("OpenGate",true);
 			if (!gateOpenSound.isPlaying && !soundPlayed)
 			{
