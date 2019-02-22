@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ocean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Thermal Vision/Material/Thermal Vision.mat" afterDir="false" />
-    </list>
+    <list default="true" id="5f25c34c-dabf-45e9-b5e5-24081a825fde" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/.idea.ocean/.idea/shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +27,7 @@
     <session id="1475604938">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="3" />
@@ -46,13 +43,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="10053" />
-          <entry key="txt" value="4133" />
+          <entry key="txt" value="4161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="10053" />
-          <entry key="PLAIN_TEXT" value="4133" />
+          <entry key="PLAIN_TEXT" value="4161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -193,7 +190,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RestartGame.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="672">
-              <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
               <folding>
                 <marker date="1545025268200" expanded="false" signature="6:113" ph="..." />
                 <marker date="1545025268200" expanded="true" signature="155:1199" ph="{...}" />
@@ -380,8 +377,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="127" />
-    <option name="y" value="61" />
+    <option name="x" value="126" />
+    <option name="y" value="60" />
     <option name="width" value="1400" />
     <option name="height" value="885" />
   </component>
@@ -428,11 +425,13 @@
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <method v="2" />
@@ -474,14 +473,7 @@
       <workItem from="1541471303142" duration="3428000" />
       <workItem from="1544737934748" duration="697000" />
       <workItem from="1544844071457" duration="1286000" />
-      <workItem from="1545002057617" duration="17150000" />
-    </task>
-    <task id="LOCAL-00030" summary="cloudy skybox&#10;&#10;deferred to forward rendering path !!!&#10;&#10;unity fog &#10;&#10;place holder material for ocean plane">
-      <created>1541285200480</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1541285200480</updated>
+      <workItem from="1545002057617" duration="17211000" />
     </task>
     <task id="LOCAL-00031" summary="built exit to cave">
       <created>1541299975087</created>
@@ -819,11 +811,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545025524996</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="fixed some collider issues">
+      <created>1545027693227</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1545027693227</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117406000" />
+    <option name="totallyTimeSpent" value="117467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -901,7 +900,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="trashCan Animation" />
     <MESSAGE value="trashcan animation plays when item destroyed." />
     <MESSAGE value="gateAnimation and new gate script" />
     <MESSAGE value="GATE OPENS WHEN THREE TRASH ARE COLLECTED" />
@@ -926,7 +924,8 @@
     <MESSAGE value="loadScene Script&#10;Optimized //debug.log" />
     <MESSAGE value="enabled gpu instancing for floating trash materials &#10;checked falling trash as static&#10;change UI text corresponding to different states&#10;added fade to black animation" />
     <MESSAGE value="added Menu Scene and esc to exit game&#10;fixed collider problem by changing shell offset of Rigidbody controller to 0.1 and Ground check to 0.15&#10;removed colliders &#10;added audio in cave" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Menu Scene and esc to exit game&#10;fixed collider problem by changing shell offset of Rigidbody controller to 0.1 and Ground check to 0.15&#10;removed colliders &#10;added audio in cave" />
+    <MESSAGE value="fixed some collider issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed some collider issues" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1275,7 +1274,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/RestartGame.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="672">
-          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
           <folding>
             <marker date="1545025268200" expanded="false" signature="6:113" ph="..." />
             <marker date="1545025268200" expanded="true" signature="155:1199" ph="{...}" />
