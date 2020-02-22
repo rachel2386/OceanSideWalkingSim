@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Thermal Vision
   m_Shader: {fileID: 4800000, guid: 0690e5dc6a3db7c4a88442f0842e5f9d, type: 3}
   m_ShaderKeywords: 
@@ -46,4 +47,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Dimensions: {r: 1, g: 1, b: 0, a: 0}
     - _RandomFractions: {r: 0.78637993, g: 0.74210846, b: 0, a: 0}
-    - _Rnd: {r: 0.29270658, g: 0.09942913, b: 0, a: 0}
+    - _Rnd: {r: 0.26125517, g: 0.32408005, b: 0, a: 0}
