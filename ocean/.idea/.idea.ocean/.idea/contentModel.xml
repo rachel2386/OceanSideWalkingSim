@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Rachel\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Rachel\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ocean.-178661726.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rache\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\rache\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_ocean.-178661726.00" t="ExcludeRecursive" />
     <e p="D:\content\others\nyu\gradClasses\game studioI\oceanSide\OceanWalkingSim\ocean" t="IncludeRecursive">
       <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -19,17 +20,266 @@
               <e p="DOTweenModuleUnityVersion.cs" t="Include" />
               <e p="DOTweenModuleUtils.cs" t="Include" />
             </e>
-            <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Enviro - Sky and Weather" t="Include">
+          <e p="Core" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Core" t="Include">
+                  <e p="EnviroFogCore.cginc" t="Include" />
+                  <e p="EnviroFogCore.hlsl" t="Include" />
+                </e>
+                <e p="Effects" t="Include">
+                  <e p="EnviroClearLightShafts.shader" t="Include" />
+                  <e p="EnviroLightShafts.shader" t="Include" />
+                </e>
+                <e p="EnviroBakeCubemap.shader" t="Include" />
+                <e p="EnviroParticleClouds.shader" t="Include" />
+                <e p="EnviroReflectionProbe.shader" t="Include" />
+                <e p="EnviroSkyboxSimple.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="3rd Party Integrations" t="Include">
+                <e p="AQUAS Integration" t="Include">
+                  <e p="EnviroAquasIntegration.cs" t="Include" />
+                </e>
+                <e p="CTS Integration" t="Include">
+                  <e p="EnviroCTSIntegration.cs" t="Include" />
+                </e>
+                <e p="FogVolume3 Integration" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="EnviroFogVolumeEditor.cs" t="Include" />
+                  </e>
+                  <e p="EnviroFogVolumeIntegration.cs" t="Include" />
+                </e>
+                <e p="Gaia Integration" t="Include">
+                  <e p="EnviroWithGAIA.cs" t="Include" />
+                </e>
+                <e p="Lux Integration" t="Include">
+                  <e p="EnviroLUXIntegration.cs" t="Include" />
+                </e>
+                <e p="MegaSplat Integration" t="Include">
+                  <e p="EnviroMegaSplatIntegration.cs" t="Include" />
+                </e>
+                <e p="MicroSplat Integration" t="Include">
+                  <e p="EnviroMicroSplatIntegration.cs" t="Include" />
+                </e>
+                <e p="Mirror Integration" t="Include">
+                  <e p="EnviroMirrorPlayer.cs" t="Include" />
+                  <e p="EnviroMirrorServer.cs" t="Include" />
+                </e>
+                <e p="Pegasus Integration" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="TriggerControlEnviroEditor.cs" t="Include" />
+                  </e>
+                  <e p="TriggerControlEnviro.cs" t="Include" />
+                </e>
+                <e p="Photon Integration" t="Include">
+                  <e p="EnviroPhotonIntegration.cs" t="Include" />
+                  <e p="EnviroPhotonPlayerAssign.cs" t="Include" />
+                </e>
+                <e p="RTP Integration" t="Include">
+                  <e p="EnviroRTPIntegration.cs" t="Include" />
+                </e>
+                <e p="UBER Integration" t="Include">
+                  <e p="EnviroUBERIntegration.cs" t="Include" />
+                </e>
+                <e p="UNet Integration" t="Include">
+                  <e p="EnviroUNetPlayer.cs" t="Include" />
+                  <e p="EnviroUNetServer.cs" t="Include" />
+                </e>
+                <e p="Vegetation Studio Pro" t="Include">
+                  <e p="EnviroVegetationStudioPro.cs" t="Include" />
+                </e>
+                <e p="WAPI Integration" t="Include">
+                  <e p="Editor" t="Include">
+                    <e p="EnviroWAPIEditor.cs" t="Include" />
+                  </e>
+                  <e p="EnviroWorldAPIIntegration.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Editor" t="Include">
+                <e p="EnviroInteriorEditor.cs" t="Include" />
+                <e p="EnviroReflectionProbeEditor.cs" t="Include" />
+                <e p="EnviroRemoveDefines.cs" t="Include" />
+                <e p="EnviroSkyMgrEditor.cs" t="Include" />
+                <e p="EnviroWeatherPresetEditor.cs" t="Include" />
+                <e p="EnviroZoneEditor.cs" t="Include" />
+              </e>
+              <e p="Effects" t="Include">
+                <e p="EnviroPostProcessing.cs" t="Include" />
+              </e>
+              <e p="EnviroCore.cs" t="Include" />
+              <e p="EnviroEvents.cs" t="Include" />
+              <e p="EnviroProfile.cs" t="Include" />
+              <e p="EnviroReflectionProbe.cs" t="Include" />
+              <e p="EnviroSkyMgr.cs" t="Include" />
+              <e p="EnviroVegetationInstance.cs" t="Include" />
+              <e p="EnviroWeatherPrefab.cs" t="Include" />
+              <e p="EnviroWeatherPreset.cs" t="Include" />
+              <e p="EnviroZone.cs" t="Include" />
+              <e p="Utility" t="Include">
+                <e p="EnviroAudioMixerSupport.cs" t="Include" />
+                <e p="EnviroAudioSource.cs" t="Include" />
+                <e p="EnviroDayNightSwitch.cs" t="Include" />
+                <e p="EnviroInterior.cs" t="Include" />
+                <e p="EnviroLightning.cs" t="Include" />
+                <e p="EnviroMeshSeasons.cs" t="Include" />
+                <e p="EnviroReflections.cs" t="Include" />
+                <e p="EnviroSeasonObjectSwitcher.cs" t="Include" />
+                <e p="EnviroTrigger.cs" t="Include" />
+                <e p="EnviroWindSynchronize.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Particle" t="Include">
+                <e p="EnviroParticlesAdditive.shader" t="Include" />
+                <e p="EnviroParticlesLightning.shader" t="Include" />
+                <e p="EnviroWeatherParticles.shader" t="Include" />
+                <e p="EnviroWeatherParticlesAdditive.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Enviro Lite" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="EnviroLiteFogRendering.shader" t="Include" />
+                <e p="EnviroLiteFogRenderingSimple.shader" t="Include" />
+                <e p="EnviroLiteMoonShader.shader" t="Include" />
+                <e p="EnviroLiteMoonShaderCustom.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="EnviroAddDefineSymbolsLW.cs" t="Include" />
+                <e p="EnviroSkyLiteEditor.cs" t="Include" />
+              </e>
+              <e p="EnviroSkyLite.cs" t="Include" />
+              <e p="EnviroSkyRenderingLW.cs" t="Include" />
+              <e p="Utilities" t="Include">
+                <e p="EnviroLiteAdditionalCamera.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Enviro Standard" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="Core" t="Include">
+                  <e p="EnviroBlurCore.cginc" t="Include" />
+                  <e p="EnviroNoiseCore.cginc" t="Include" />
+                  <e p="EnviroVolumeCloudsCore.cginc" t="Include" />
+                  <e p="EnviroVolumeLightCore.cginc" t="Include" />
+                </e>
+                <e p="Effects" t="Include">
+                  <e p="EnviroBilateralBlur.shader" t="Include" />
+                  <e p="EnviroDistanceBlur.shader" t="Include" />
+                  <e p="EnviroFogRendering.shader" t="Include" />
+                  <e p="EnviroFogRenderingDisabled.shader" t="Include" />
+                  <e p="EnviroFogRenderingSimple.shader" t="Include" />
+                  <e p="EnviroVolumeLight.shader" t="Include" />
+                </e>
+                <e p="EnviroBlit.shader" t="Include" />
+                <e p="EnviroCloudsCompose.shader" t="Include" />
+                <e p="EnviroDownsampleDepth.shader" t="Include" />
+                <e p="EnviroFlatCloudMap.shader" t="Include" />
+                <e p="EnviroMoonShader.shader" t="Include" />
+                <e p="EnviroRaymarchClouds.shader" t="Include" />
+                <e p="EnviroShadowCookie.shader" t="Include" />
+                <e p="EnviroSkybox.shader" t="Include" />
+                <e p="EnviroSkyboxFlatClouds.shader" t="Include" />
+                <e p="EnviroWeatherMap.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="EnviroAddDefineSymbolsHD.cs" t="Include" />
+                <e p="EnviroSkyEditor.cs" t="Include" />
+                <e p="EnviroVolumeLightEditor.cs" t="Include" />
+              </e>
+              <e p="EnviroSky.cs" t="Include" />
+              <e p="EnviroSkyRendering.cs" t="Include" />
+              <e p="EnviroVolumeCloudsQuality.cs" t="Include" />
+              <e p="EnviroVolumeLight.cs" t="Include" />
+              <e p="Utilities" t="Include">
+                <e p="EnviroAdditionalCamera.cs" t="Include" />
+                <e p="EnviroCloudsReflection.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Samples" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="DemoUI.cs" t="Include" />
+              <e p="EventTest.cs" t="Include" />
+              <e p="FPSController.cs" t="Include" />
+              <e p="SampleHUDFPS.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Heureka" t="Include">
+          <e p="AssetHunterPRO" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AH_BuildInfoManager.cs" t="Include" />
+                <e p="AH_BuildInfoMergerWindow.cs" t="Include" />
+                <e p="AH_BuildProcessor.cs" t="Include" />
+                <e p="AH_BuildReportFileInfo.cs" t="Include" />
+                <e p="AH_BuildReportWindow.cs" t="Include" />
+                <e p="AH_EditorData.cs" t="Include" />
+                <e p="AH_ElementList.cs" t="Include" />
+                <e p="AH_IgnoreList.cs" t="Include" />
+                <e p="AH_IgnoreListEventActionBase.cs" t="Include" />
+                <e p="AH_IIgnoreListActions.cs" t="Include" />
+                <e p="AH_PreProcessor.cs" t="Include" />
+                <e p="AH_SceneReferenceWindow.cs" t="Include" />
+                <e p="AH_SerializationHelper.cs" t="Include" />
+                <e p="AH_SerializedAssetInfo.cs" t="Include" />
+                <e p="AH_SerializedBuildInfo.cs" t="Include" />
+                <e p="AH_SettingsManager.cs" t="Include" />
+                <e p="AH_SettingsWindow.cs" t="Include" />
+                <e p="AH_TreeViewSelectionInfo.cs" t="Include" />
+                <e p="AH_Utils.cs" t="Include" />
+                <e p="AH_VersionUpgrader.cs" t="Include" />
+                <e p="AH_Window.cs" t="Include" />
+                <e p="AH_WindowStyler.cs" t="Include" />
+                <e p="External" t="Include">
+                  <e p="Docker.cs" t="Include" />
+                </e>
+                <e p="TreeViewDataModel" t="Include">
+                  <e p="AH_BuildInfoTreeView.cs" t="Include" />
+                  <e p="AH_MultiColumnHeader.cs" t="Include" />
+                  <e p="AH_TreeviewElement.cs" t="Include" />
+                  <e p="AH_TreeViewWithTreeModel.cs" t="Include" />
+                  <e p="TreeElement.cs" t="Include" />
+                  <e p="TreeElementUtility.cs" t="Include" />
+                  <e p="TreeModel.cs" t="Include" />
+                  <e p="TreeViewWithTreeModel.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Global" t="Include">
+            <e p="Editor" t="Include">
+              <e p="Heureka_Serializer.cs" t="Include" />
+              <e p="Readme" t="Include">
+                <e p="Heureka_PackageData.cs" t="Include" />
+                <e p="Heureka_PackageDataManager.cs" t="Include" />
+                <e p="Heureka_PackageDataManagerEditor.cs" t="Include" />
+                <e p="Heureka_PackageDataPromo.cs" t="Include" />
+                <e p="Heureka_PackageDataVersioned.cs" t="Include" />
+              </e>
+            </e>
           </e>
         </e>
         <e p="Models" t="Include">
           <e p="Rusty Flashlight" t="Include">
-            <e p="Readme.txt" t="Include" />
             <e p="Scripts" t="Include">
               <e p="FlashlightToggle.cs" t="Include" />
             </e>
           </e>
         </e>
+        <e p="pickupItem.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="DifferentView.cs" t="Include" />
           <e p="disposeTrash.cs" t="Include" />
@@ -44,17 +294,14 @@
         <e p="Standard Assets" t="Include">
           <e p="Characters" t="Include">
             <e p="FirstPersonCharacter" t="Include">
-              <e p="FirstPersonCharacterGuidelines.txt" t="Include" />
               <e p="Scripts" t="Include">
                 <e p="HeadBob.cs" t="Include" />
                 <e p="MouseLook.cs" t="Include" />
-                <e p="pickupItem.cs" t="Include" />
                 <e p="RigidbodyFirstPersonController.cs" t="Include" />
               </e>
             </e>
           </e>
           <e p="CrossPlatformInput" t="Include">
-            <e p="CrossPlatformInputGuidelines.txt" t="Include" />
             <e p="Scripts" t="Include">
               <e p="AxisTouchButton.cs" t="Include" />
               <e p="ButtonHandler.cs" t="Include" />
@@ -86,21 +333,6 @@
             </e>
           </e>
           <e p="Effects" t="Include">
-            <e p="GlassRefraction" t="Include">
-              <e p="Shaders" t="Include">
-                <e p="GlassStainedBumpDistort.shader" t="Include" />
-              </e>
-            </e>
-            <e p="ImageEffects" t="Include">
-              <e p="Readme.txt" t="Include" />
-            </e>
-            <e p="Projectors" t="Include">
-              <e p="Guidelines.txt" t="Include" />
-              <e p="Shaders" t="Include">
-                <e p="ProjectorLight.shader" t="Include" />
-                <e p="ProjectorMultiply.shader" t="Include" />
-              </e>
-            </e>
             <e p="ToonShading" t="Include">
               <e p="Shaders" t="Include">
                 <e p="ToonBasic.shader" t="Include" />
@@ -112,7 +344,6 @@
           </e>
           <e p="Environment" t="Include">
             <e p="Water" t="Include">
-              <e p="DO_NOT_WORK_IN_VR.txt" t="Include" />
               <e p="Water" t="Include">
                 <e p="Scripts" t="Include">
                   <e p="Displace.cs" t="Include" />
@@ -124,30 +355,15 @@
                   <e p="WaterBase.cs" t="Include" />
                   <e p="WaterTile.cs" t="Include" />
                 </e>
-                <e p="Shaders" t="Include">
-                  <e p="FXWaterPro.shader" t="Include" />
-                </e>
-              </e>
-              <e p="Water4" t="Include">
-                <e p="Shaders" t="Include">
-                  <e p="FXWater4Advanced.shader" t="Include" />
-                  <e p="FXWater4Simple.shader" t="Include" />
-                  <e p="WaterInclude.cginc" t="Include" />
-                </e>
               </e>
             </e>
             <e p="Water (Basic)" t="Include">
-              <e p="DO_NOT_WORK_IN_VR.txt" t="Include" />
               <e p="Scripts" t="Include">
                 <e p="WaterBasic.cs" t="Include" />
-              </e>
-              <e p="Shaders" t="Include">
-                <e p="FXWaterBasic.shader" t="Include" />
               </e>
             </e>
           </e>
           <e p="ParticleSystems" t="Include">
-            <e p="ParticleSystemsGuidelines.txt" t="Include" />
             <e p="Scripts" t="Include">
               <e p="AfterburnerPhysicsForce.cs" t="Include" />
               <e p="ExplosionFireAndDebris.cs" t="Include" />
@@ -159,11 +375,6 @@
               <e p="ParticleSystemMultiplier.cs" t="Include" />
               <e p="SmokeParticles.cs" t="Include" />
               <e p="WaterHoseParticles.cs" t="Include" />
-            </e>
-            <e p="Shaders" t="Include">
-              <e p="PriorityParticleAdd.shader" t="Include" />
-              <e p="PriorityParticleAddSoft.shader" t="Include" />
-              <e p="PriorityParticleAlpha.shader" t="Include" />
             </e>
           </e>
           <e p="Utility" t="Include">
@@ -194,7 +405,6 @@
           </e>
           <e p="Vehicles" t="Include">
             <e p="Aircraft" t="Include">
-              <e p="AircraftGuidelines.txt" t="Include" />
               <e p="Scripts" t="Include">
                 <e p="AeroplaneAiControl.cs" t="Include" />
                 <e p="AeroplaneAudio.cs" t="Include" />
@@ -208,7 +418,6 @@
               </e>
             </e>
             <e p="Car" t="Include">
-              <e p="CarGuidelines.txt" t="Include" />
               <e p="Scripts" t="Include">
                 <e p="BrakeLight.cs" t="Include" />
                 <e p="CarAIControl.cs" t="Include" />
@@ -221,16 +430,10 @@
                 <e p="Suspension.cs" t="Include" />
                 <e p="WheelEffects.cs" t="Include" />
               </e>
-              <e p="Shaders" t="Include">
-                <e p="DiffuseReflectiveShader.shader" t="Include" />
-                <e p="ReflectiveDiffuseSpec.shader" t="Include" />
-                <e p="ReflectiveDiffuseSpecTransp.shader" t="Include" />
-              </e>
             </e>
           </e>
         </e>
         <e p="Thermal Vision" t="Include">
-          <e p="Readme.txt" t="Include" />
           <e p="Script" t="Include">
             <e p="CameraEffect.cs" t="Include" />
             <e p="FreeCamera.cs" t="Include" />
@@ -255,11 +458,6 @@
               <e p="WireframeTransparent-Global.shader" t="Include" />
               <e p="WireframeTransparentCulled-Global.shader" t="Include" />
             </e>
-            <e p="Wireframe.cginc" t="Include" />
-            <e p="Wireframe.shader" t="Include" />
-            <e p="WireframeShaded-Unlit.shader" t="Include" />
-            <e p="WireframeTransparent.shader" t="Include" />
-            <e p="WireframeTransparentCulled.shader" t="Include" />
           </e>
         </e>
       </e>

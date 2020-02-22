@@ -20,6 +20,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             public AnimationCurve SlopeCurveModifier = new AnimationCurve(new Keyframe(-90.0f, 1.0f), new Keyframe(0.0f, 1.0f), new Keyframe(90.0f, 0.0f));
             [HideInInspector] public float CurrentTargetSpeed = 8f;
 
+            
 #if !MOBILE_INPUT
             private bool m_Running;
 #endif
@@ -81,7 +82,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         public MovementSettings movementSettings = new MovementSettings();
         public MouseLook mouseLook = new MouseLook();
         public AdvancedSettings advancedSettings = new AdvancedSettings();
-
+        public bool holdingItem = false;
 
         private Rigidbody m_RigidBody;
         private CapsuleCollider m_Capsule;
@@ -128,7 +129,9 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void Update()
         {
+            
             RotateView();
+            
             playFootStep();
             if (CrossPlatformInputManager.GetButtonDown("Jump") && !m_Jump)
             {
@@ -140,6 +143,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private void FixedUpdate()
         {
             GroundCheck();
+            if(holdingItem) return;
             Vector2 input = GetInput();
 
             if ((Mathf.Abs(input.x) > float.Epsilon || Mathf.Abs(input.y) > float.Epsilon) && (advancedSettings.airControl || m_IsGrounded))
@@ -229,7 +233,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
             // get the rotation before it's changed
             float oldYRotation = transform.eulerAngles.y;
-
+            
+            
             mouseLook.LookRotation (transform, cam.transform);
 
             if (m_IsGrounded || advancedSettings.airControl)

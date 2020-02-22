@@ -18,7 +18,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         public bool lockCursor = true;
         //public GameObject pickupScriptHolder;
         //public Transform player;
-        private PickupItem pickupScript = new PickupItem();
+        
 
 
         private Quaternion m_CharacterTargetRot;
@@ -46,7 +46,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         {
 
 
-            if (pickupScript.pickedup == false)
+            
             {
                 float yRot = CrossPlatformInputManager.GetAxis("Mouse X") * XSensitivity;
                 float xRot = CrossPlatformInputManager.GetAxis("Mouse Y") * YSensitivity;
